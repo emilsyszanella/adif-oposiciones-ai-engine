@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adif Oposiciones Master - Herramienta Didáctica de Estudio</title>
+  <meta name="description" content="Plataforma didáctica interactiva de preguntas y respuestas para oposiciones de Adif y Administraciones Públicas con trazabilidad legal y citas de página.">
+  <meta name="theme-color" content="#00B37E">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Adif Prep">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- TOP NAVIGATION & HEADER -->
+    <header class="app-header">
+      <div class="header-container">
+        <div class="brand">
+          <div class="brand-badge">
+            <svg class="rail-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="4" y="3" width="16" height="15" rx="3"></rect>
+              <line x1="4" y1="11" x2="20" y2="11"></line>
+              <line x1="8" y1="7" x2="8.01" y2="7"></line>
+              <line x1="16" y1="7" x2="16.01" y2="7"></line>
+              <line x1="6" y1="18" x2="3" y2="21"></line>
+              <line x1="18" y1="18" x2="21" y2="21"></line>
+            </svg>
+            <span class="live-dot" title="Banco de preguntas activo"></span>
+          </div>
+          <div class="brand-text">
+            <div class="brand-title">ADIF OPOSICIONES <span>PREP</span></div>
+            <div class="brand-subtitle">Herramienta Didáctica Oficial • Agente Especialista</div>
+          </div>
+        </div>
+
+        <!-- QUICK STUDY STATS -->
+        <div class="header-stats">
+          <button id="btn-mobile-connect" class="stat-pill mobile-connect-btn" title="Abrir en el teléfono móvil">
+            <span class="stat-icon">📱</span>
+            <span class="stat-label">Conectar Móvil</span>
+          </button>
+          <div class="stat-pill" title="Aciertos globales acumulados">
+            <span class="stat-label">Aciertos:</span>
+            <span class="stat-value" id="stat-accuracy">0%</span>
+          </div>
+          <div class="stat-pill" title="Preguntas respondidas hoy">
+            <span class="stat-label">Completadas:</span>
+            <span class="stat-value" id="stat-completed">0</span>
+          </div>
+          <div class="stat-pill streak-pill" title="Racha de estudio">
+            <span class="stat-icon">🔥</span>
+            <span class="stat-value" id="stat-streak">1 día</span>
+          </div>
+          <button id="theme-toggle-btn" class="icon-btn" aria-label="Cambiar tema">
+            <span class="theme-icon-dark">🌙</span>
+            <span class="theme-icon-light">☀️</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- MAIN APP CONTAINER -->
+    <main class="main-content">
+      <!-- MODE NAVIGATION TABS -->
+      <nav class="modes-navbar" aria-label="Modos de estudio">
+        <button class="nav-tab active" data-mode="test" id="tab-mode-test">
+          <span class="tab-icon">🎯</span>
+          <span class="tab-text">Modo Test Examen</span>
+        </button>
+        <button class="nav-tab" data-mode="flashcards" id="tab-mode-flashcards">
+          <span class="tab-icon">⚡</span>
+          <span class="tab-text">Flashcards (Repaso Rápido)</span>
+        </button>
+        <button class="nav-tab" data-mode="mistakes" id="tab-mode-mistakes">
+          <span class="tab-icon">🧠</span>
+          <span class="tab-text">Preguntas Falladas (<span id="failed-count-badge">0</span>)</span>
+        </button>
+        <button class="nav-tab" data-mode="syllabus" id="tab-mode-syllabus">
+          <span class="tab-icon">📚</span>
+          <span class="tab-text">Temario Oficial (21 Temas)</span>
+        </button>
+      </nav>
+
+      <!-- CONTROL BAR: FILTERS, SEARCH & SETTINGS -->
+      <section class="controls-panel">
+        <div class="controls-row">
+          <div class="filter-group">
+            <label for="block-select" class="control-label">Bloque Temático:</label>
+            <select id="block-select" class="custom-select">
+              <option value="ALL">Todos los Bloques (Temario Completo)</option>
+              <option value="B1">Bloque 1: Organización del Estado y Adm. Pública</option>
+              <option value="B2">Bloque 2: Función Pública, Ética y Empleo (EBEP)</option>
+              <option value="B3">Bloque 3: Igualdad, Diversidad y PRL</option>
+              <option value="B4">Bloque 4: Sector Ferroviario y Adif (Estatuto, Red, Sostenibilidad)</option>
+              <option value="B5">Bloque 5: Seguridad Ferroviaria, Contratos y Digital</option>
+            </select>
+          </div>
+
+          <div class="filter-group" style="max-width: 220px;">
+            <label for="exam-size-select" class="control-label">Modo / Cantidad:</label>
+            <select id="exam-size-select" class="custom-select">
+              <option value="25" selected>25 Preguntas (Simulacro Oficial)</option>
+              <option value="10">10 Preguntas (Pausa 5 min)</option>
+              <option value="50">50 Preguntas (Intensivo)</option>
+              <option value="100">100 Preguntas (Gran Simulacro)</option>
+              <option value="ALL">Todas las preguntas (210)</option>
+            </select>
+          </div>
+
+          <div class="search-group">
+            <input type="text" id="search-input" class="search-box" placeholder="Buscar por palabra clave (ej. plazos, comité, canon, 40 horas)...">
+          </div>
+
+          <div class="quick-actions">
+            <button id="btn-new-random-exam" class="btn btn-primary" title="Generar un nuevo lote aleatorio de preguntas">
+              <span class="btn-icon">🎲</span> Nuevo Examen
+            </button>
+            <button id="btn-shuffle-test" class="btn btn-secondary" title="Reordenar las preguntas actuales">
+              <span class="btn-icon">🔀</span> Mezclar
+            </button>
+            <button id="btn-reset-stats" class="btn btn-ghost" title="Reiniciar estadísticas">
+              ↺ Reiniciar
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 1: MODO TEST EXAMEN -->
+      <section id="section-test" class="study-section active">
+        <div class="test-wrapper">
+          <!-- PROGRESS & TIMER BAR -->
+          <div class="test-header-bar">
+            <div class="progress-container">
+              <div class="progress-labels">
+                <span id="test-question-counter">Pregunta 1 de 20</span>
+                <span id="test-progress-percent">5%</span>
+              </div>
+              <div class="progress-track">
+                <div class="progress-fill" id="test-progress-bar"></div>
+              </div>
+            </div>
+            <div class="test-timer" id="test-timer-badge">
+              <span class="timer-icon">⏱️</span>
+              <span id="test-timer-clock">00:00</span>
+            </div>
+          </div>
+
+          <!-- QUESTION CARD CONTAINER -->
+          <div class="question-card" id="question-card-element">
+            <div class="card-meta">
+              <span class="topic-pill" id="q-topic-pill">Cargando tema...</span>
+              <span class="difficulty-pill" id="q-diff-pill">Media</span>
+            </div>
+
+            <h2 class="question-text" id="q-question-title">Cargando pregunta...</h2>
+
+            <div class="options-container" id="q-options-container">
+              <!-- Rendered via JS -->
+            </div>
+
+            <!-- EXPLANATION ACCORDION (Revealed after answering) -->
+            <div class="explanation-box hidden" id="q-explanation-box">
+              <div class="explanation-header">
+                <span class="explanation-icon" id="q-status-icon">✓</span>
+                <span class="explanation-title" id="q-status-title">¡Respuesta Correcta!</span>
+              </div>
+              <p class="explanation-text" id="q-explanation-text"></p>
+              
+              <div class="citation-footer">
+                <div class="legal-badge">
+                  <span class="badge-title">⚖️ Base Jurídica / Técnica:</span>
+                  <span id="q-citation-article" class="badge-text"></span>
+                </div>
+                <div class="source-badge">
+                  <span class="badge-title">📄 Documento Fuente:</span>
+                  <span id="q-citation-source" class="badge-text"></span>
+                  <span id="q-citation-page" class="page-tag"></span>
+                </div>
+              </div>
+            </div>
+
+            <!-- ACTION FOOTER -->
+            <div class="card-footer">
+              <button id="btn-flag-question" class="btn btn-outline" title="Marcar para repasar más tarde">
+                🔖 Guardar para repaso
+              </button>
+              <div class="nav-buttons">
+                <button id="btn-prev-question" class="btn btn-secondary" disabled>Anterior</button>
+                <button id="btn-next-question" class="btn btn-primary">Siguiente ➔</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 2: MODO FLASHCARDS (TARJETAS DE REPASO RÁPIDO) -->
+      <section id="section-flashcards" class="study-section">
+        <div class="flashcard-container">
+          <div class="flashcard-header">
+            <div class="flashcard-tip">
+              💡 <strong>Modo Tiempos Libres:</strong> Haz clic en la tarjeta o pulsa <code>Espacio</code> para voltearla y ver la solución con su base legal.
+            </div>
+            <div class="flashcard-counter" id="flashcard-counter">Tarjeta 1 de 20</div>
+          </div>
+
+          <div class="flashcard-scene">
+            <div class="flashcard" id="flashcard-card">
+              <!-- FRONT -->
+              <div class="card-face card-front">
+                <div class="face-top">
+                  <span class="badge" id="fc-topic-front">Tema</span>
+                  <span class="flip-hint">Toca para voltear ↻</span>
+                </div>
+                <div class="face-center">
+                  <span class="fc-prompt-label">PREGUNTA CLAVE DE OPOSICIÓN:</span>
+                  <p class="fc-question-text" id="fc-question-front">Cargando...</p>
+                </div>
+                <div class="face-bottom">
+                  <span>Modo Flashcard • Adif Exam Prep</span>
+                </div>
+              </div>
+
+              <!-- BACK -->
+              <div class="card-face card-back">
+                <div class="face-top">
+                  <span class="badge badge-success">SOLUCIÓN Y FUNDAMENTO</span>
+                  <span class="flip-hint">↻ Voltear</span>
+                </div>
+                <div class="face-center">
+                  <div class="fc-correct-answer">
+                    <span class="correct-tag">Respuesta Correcta:</span>
+                    <p id="fc-answer-back" class="fc-answer-text"></p>
+                  </div>
+                  <div class="fc-explanation">
+                    <p id="fc-explanation-back"></p>
+                  </div>
+                  <div class="fc-reference">
+                    <span id="fc-reference-back" class="legal-tag"></span>
+                  </div>
+                </div>
+                <div class="face-bottom">
+                  <span>Verificado con la documentación oficial en Markdown</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- FLASHCARD CONTROLS -->
+          <div class="flashcard-controls">
+            <button id="btn-fc-prev" class="btn btn-secondary">◀ Anterior</button>
+            <button id="btn-fc-flip" class="btn btn-primary">Voltear Tarjeta (Espacio)</button>
+            <button id="btn-fc-next" class="btn btn-secondary">Siguiente ▶</button>
+            <button id="btn-fc-shuffle" class="btn btn-secondary" title="Barajar tarjetas aleatoriamente">🔀 Barajar</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 3: PREGUNTAS FALLADAS (REFUERZO INTELIGENTE) -->
+      <section id="section-mistakes" class="study-section">
+        <div class="mistakes-container">
+          <div class="section-banner">
+            <h2>🧠 Refuerzo de Preguntas Falladas</h2>
+            <p>Aquí se almacenan automáticamente las preguntas en las que has fallado para que puedas repasarlas hasta dominarlas al 100%.</p>
+          </div>
+
+          <div id="mistakes-empty-state" class="empty-state">
+            <div class="empty-icon">🎉</div>
+            <h3>¡No tienes preguntas falladas pendientes!</h3>
+            <p>¡Buen trabajo! Cuando falles alguna pregunta en el Modo Test aparecerá aquí para que puedas practicarla de nuevo.</p>
+            <button class="btn btn-primary" id="btn-start-test-from-empty">Comenzar un Test Ahora</button>
+          </div>
+
+          <div id="mistakes-list" class="mistakes-list hidden">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 4: TEMARIO OFICIAL (21 TEMAS) -->
+      <section id="section-syllabus" class="study-section">
+        <div class="syllabus-container">
+          <div class="section-banner">
+            <h2>📚 Temario Completo de Oposiciones Adif (21 Temas)</h2>
+            <p>Contenidos íntegros extraídos sin pérdida de datos desde los PDFs oficiales a Markdown estructurado con tablas y artículos.</p>
+          </div>
+
+          <div class="syllabus-grid" id="syllabus-grid-container">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- TEST RESULTS MODAL -->
+    <div class="modal-overlay hidden" id="results-modal">
+      <div class="modal-card">
+        <div class="modal-header">
+          <div class="modal-badge" id="modal-score-badge">🏆 Resultado Oficial</div>
+          <h2 id="modal-title">¡Test Completado!</h2>
+        </div>
+        <div class="modal-body">
+          <div class="results-stats-grid">
+            <div class="result-metric">
+              <span class="metric-num" id="modal-score-text">0/20</span>
+              <span class="metric-label">Aciertos netos</span>
+            </div>
+            <div class="result-metric">
+              <span class="metric-num" id="modal-percentage-text">0%</span>
+              <span class="metric-label">Puntuación</span>
+            </div>
+            <div class="result-metric">
+              <span class="metric-num" id="modal-time-text">00:00</span>
+              <span class="metric-label">Tiempo empleado</span>
+            </div>
+          </div>
+          <div class="results-feedback-box" id="modal-feedback-message">
+            Excelente rendimiento. Estás preparado para superar el examen oficial.
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-secondary" id="modal-btn-review">Revisar Respuestas</button>
+          <button class="btn btn-primary" id="modal-btn-restart">Hacer Otro Test</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- MOBILE CONNECT MODAL -->
+    <div class="modal-overlay hidden" id="mobile-modal">
+      <div class="modal-card mobile-modal-card">
+        <div class="modal-header">
+          <div class="modal-badge" style="background: rgba(56, 189, 248, 0.15); color: var(--accent-cyan);">📱 Estudio en el Móvil</div>
+          <h2>Conectar tu Teléfono Móvil</h2>
+        </div>
+        <div class="modal-body">
+          <p style="font-size:0.9rem;color:var(--text-secondary);margin-bottom:1rem;">
+            Asegúrate de que tu móvil esté conectado a la <strong>misma red Wi-Fi</strong> y escanea el código QR o abre la URL:
+          </p>
+          <div class="qr-code-wrapper">
+            <img src="mobile_qr.png" alt="QR Code para conectar móvil" class="qr-image" id="mobile-qr-img">
+          </div>
+          <div class="url-copy-pill" id="mobile-url-pill">
+            <code id="mobile-url-text">http://192.168.1.206:8080</code>
+          </div>
+          <div class="pwa-steps">
+            <h4>💡 Cómo tenerlo como App en tu móvil (100% Offline):</h4>
+            <ul>
+              <li><strong>En iPhone (Safari):</strong> Pulsa el botón de <em>Compartir</em> (icono cuadrado con flecha hacia arriba) y selecciona <em>"Añadir a la pantalla de inicio"</em>.</li>
+              <li><strong>En Android (Chrome):</strong> Pulsa el menú de 3 puntos arriba a la derecha y selecciona <em>"Instalar aplicación"</em> o <em>"Añadir a pantalla principal"</em>.</li>
+            </ul>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-secondary" id="modal-mobile-close">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- LOAD COMPILED DATASET -->
+  <script src="questions_data.js"></script>
+  <!-- APP LOGIC -->
+  <script src="app.js"></script>
+</body>
+</html>

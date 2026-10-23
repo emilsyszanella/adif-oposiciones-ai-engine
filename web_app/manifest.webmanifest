@@ -1,0 +1,18 @@
+{
+  "name": "Adif Oposiciones Prep",
+  "short_name": "Adif Prep",
+  "description": "Herramienta didáctica de estudio para oposiciones de Adif y Administraciones Públicas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070B14",
+  "theme_color": "#00B37E",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

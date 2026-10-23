@@ -1192,3 +1192,28 @@ body {
   flex-direction: column;
   gap: 0.4rem;
 }
+
+/* APP DISCLAIMER FOOTER */
+.app-disclaimer-footer {
+  margin-top: 3.5rem;
+  padding: 1.75rem 1.25rem;
+  border-top: 1px solid var(--border-subtle);
+  background: rgba(15, 23, 42, 0.45);
+  text-align: center;
+}
+
+.disclaimer-content {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.disclaimer-content p {
+  font-size: 0.76rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+}
+
+.disclaimer-content strong {
+  color: var(--text-secondary);
+}
+

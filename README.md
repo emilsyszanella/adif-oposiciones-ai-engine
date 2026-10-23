@@ -264,7 +264,36 @@ Because `web_app/` has zero server-side runtime dependencies, it can be deployed
 
 ---
 
-## 10. License & Authorship
+## 10. Legal Notice, Statutory Public Domain & Disclaimer
+
+> [!IMPORTANT]
+> **Independent Pedagogical Study Tool**: This project is an independent open-source educational utility developed solely for self-study, active recall practice, and technical demonstration.
+
+### 10.1. Non-Affiliation Statement
+This software, repository, and author are **not** affiliated, associated, authorized, endorsed by, sponsored by, or in any way officially connected with:
+* **Adif** (Administrador de Infraestructuras Ferroviarias)
+* **Adif Alta Velocidad**
+* The **Ministry of Transport and Sustainable Mobility** (*Ministerio de Transportes y Movilidad Sostenible*)
+* Any of their subsidiaries, corporate divisions, or official examination boards (*Tribunales Calificadores*).
+
+The official portal for Adif public employment opportunities is [https://www.adif.es](https://www.adif.es). Candidates must consult the official notices published in the **Boletín Oficial del Estado (BOE)** for legally binding examination requirements, dates, and official syllabus specifications.
+
+### 10.2. Statutory Public Domain (Spanish Intellectual Property Law)
+All legislation, royal decrees, public statutes, and regulations ingested and processed by this repository belong to the **Public Domain** under Spanish Law. Specifically, pursuant to **Article 13 of Royal Legislative Decree 1/1996 (Ley de Propiedad Intelectual - LPI)**:
+
+> *"No son objeto de propiedad intelectual las disposiciones legales o reglamentarias y sus correspondientes proyectos, las resoluciones de los órganos jurisdiccionales y los actos, acuerdos, deliberaciones y dictámenes de los organismos públicos, así como las traducciones oficiales de todos los textos anteriores."*
+> 
+> *(Legal or regulatory provisions and their corresponding drafts, judicial resolutions, and acts, agreements, deliberations, and opinions of public bodies are not subject to intellectual property rights).*
+
+### 10.3. Nominative Fair Use of Trademarks
+The designation **"Adif"** and related references are used strictly under the doctrine of **nominative fair use** in accordance with **Article 37 of Spanish Trademark Law 17/2001 (Ley de Marcas)**. Their use is purely descriptive and referential, solely indicating the targeted competitive examination to which the educational syllabus corresponds. No official commercial trademarks, logos, or protected brand assets of Adif are utilized within this repository.
+
+### 10.4. Synthetic Educational Content
+All mock exam drills, flashcard memory prompts, and explanation rationales in `web_app/questions_data.js` and `simulacros/` are synthetic educational aids created for self-testing. They do not constitute official examination keys, leaked materials, or confidential tribunal questionnaires.
+
+---
+
+## 11. License & Authorship
 
 Developed by **Emilsys Zanella** ([@emilsyszanella](https://github.com/emilsyszanella)).  
-Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for full legal text and disclaimer terms.

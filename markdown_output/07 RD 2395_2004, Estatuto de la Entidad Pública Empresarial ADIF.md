@@ -1,0 +1,1159 @@
+---
+source_file: 07 RD 2395_2004, Estatuto de la Entidad Pública Empresarial ADIF.pdf
+document_title: Real Decreto 2395/2004, de 30 de diciembre, por el que se aprueba
+  el Estatuto de la entidad pública empresarial Administrador de Infraestructuras
+  Ferroviarias.
+author: Agencia Estatal Boletín Oficial del Estado
+subject: BOE-A-2004-21913 actualizado a 28 de diciembre de 2013
+total_pages: 22
+total_words: 14468
+total_characters: 83496
+tables_count: 3
+ocr_pages_applied: 0
+extraction_date: '2026-10-22T22:28:46.247152'
+lossless_ratio: 1.012
+table_of_contents:
+- level: 1
+  title: Real Decreto 2395/2004, de 30 de diciembre, por el que se aprueba el Estatuto
+    de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias.
+  page: 1
+- level: 2
+  title: '[Preámbulo]'
+  page: 4
+- level: 2
+  title: '[Artículos]'
+  page: 4
+- level: 3
+  title: Artículo único. Aprobación del Estatuto de la entidad pública empresarial
+    Administrador de Infraestructuras Ferroviarias.
+  page: 5
+- level: 2
+  title: '[Disposiciones adicionales]'
+  page: 5
+- level: 3
+  title: Disposición adicional primera. Comienzo de las actividades del Administrador
+    de Infraestructuras Ferroviarias.
+  page: 5
+- level: 3
+  title: Disposición adicional segunda. Sucesión de empresas.
+  page: 5
+- level: 3
+  title: Disposición adicional tercera. Continuidad de las encomiendas a Gestor de
+    Infraestructuras Ferroviarias.
+  page: 6
+- level: 3
+  title: Disposición adicional cuarta. Encomienda de administración de la red de titularidad
+    del Estado al Administrador de Infraestructuras Ferroviarias.
+  page: 6
+- level: 2
+  title: '[Disposiciones transitorias]'
+  page: 6
+- level: 3
+  title: Disposición transitoria primera. Ejercicio económico.
+  page: 6
+- level: 3
+  title: Disposición transitoria segunda. Expedientes de gasto, contratos en vigor
+    y régimen de contabilidad.
+  page: 6
+- level: 2
+  title: '[Disposiciones derogatorias]'
+  page: 6
+- level: 3
+  title: Disposición derogatoria única. Derogación normativa.
+  page: 7
+- level: 2
+  title: '[Disposiciones finales]'
+  page: 7
+- level: 3
+  title: Disposición final primera. Inventario de bienes.
+  page: 7
+- level: 3
+  title: Disposición final segunda. Facultades de desarrollo.
+  page: 7
+- level: 3
+  title: Disposición final tercera. Entrada en vigor.
+  page: 7
+- level: 2
+  title: '[Firma]'
+  page: 7
+- level: 2
+  title: ESTATUTO DE LA ENTIDAD PÚBLICA EMPRESARIAL ADMINISTRADOR DE INFRAESTRUCTURAS
+    FERROVIARIAS.
+  page: 7
+- level: 2
+  title: CAPÍTULO I. Disposiciones generales
+  page: 7
+- level: 3
+  title: Artículo 1. Naturaleza y régimen jurídico.
+  page: 7
+- level: 3
+  title: Artículo 2. Autonomía de gestión.
+  page: 7
+- level: 2
+  title: CAPÍTULO II. Funciones del Administrador de Infraestructuras Ferroviarias
+  page: 8
+- level: 2
+  title: Sección 1.ª Actividades a desarrollar por el Administrador de Infraestructuras
+    Ferroviarias
+  page: 8
+- level: 3
+  title: Artículo 3. Competencias y funciones del Administrador de Infraestructuras
+    Ferroviarias.
+  page: 8
+- level: 3
+  title: Artículo 4. Convenios o contratos-programa.
+  page: 9
+- level: 3
+  title: Artículo 5. Redes de telecomunicaciones.
+  page: 9
+- level: 2
+  title: Sección 2.ª Construcción de las infraestructuras ferroviarias integrantes
+    de la Red Ferroviaria de Interés General
+  page: 9
+- level: 3
+  title: Artículo 6. Proyectos y construcción.
+  page: 9
+- level: 3
+  title: Artículo 7. Expropiaciones.
+  page: 9
+- level: 3
+  title: Articulo 8. Puesta en funcionamiento de la infraestructura ferroviaria.
+  page: 10
+- level: 2
+  title: Sección 3.ª Administración de las infraestructuras ferroviarias integradas
+    en la Red Ferroviaria de Interés General
+  page: 10
+- level: 3
+  title: Artículo 9. Ámbito.
+  page: 10
+- level: 3
+  title: Articulo 10. Mantenimiento de la infraestructura ferroviaria.
+  page: 10
+- level: 3
+  title: Artículo 11. Explotación de la infraestructura ferroviaria de alta velocidad
+    y gestión de los sistemas de control, de circulación y de seguridad.
+  page: 10
+- level: 3
+  title: Artículo 12. La gestión de un registro telemático por el Administrador de
+    Infraestructuras Ferroviarias.
+  page: 11
+- level: 2
+  title: Sección 4.ª Régimen jurídico de la contratación en el Administrador de Infraestructuras
+    Ferroviarias
+  page: 11
+- level: 3
+  title: Artículo 13. Régimen jurídico de la contratación en el Administrador de Infraestructuras
+    Ferroviarias.
+  page: 11
+- level: 2
+  title: CAPÍTULO III. Organización de la entidad publica empresarial Administrador
+    de Infraestructuras Ferroviarias
+  page: 13
+- level: 3
+  title: Artículo 14. Órganos de gobierno.
+  page: 13
+- level: 3
+  title: Articulo 15. El Consejo de Administración.
+  page: 13
+- level: 3
+  title: Artículo 16. Competencias del Consejo de Administración.
+  page: 13
+- level: 3
+  title: Artículo 17. Delegación de competencias por el Consejo de Administración.
+  page: 14
+- level: 3
+  title: Artículo 18. Comisiones Delegadas.
+  page: 14
+- level: 3
+  title: Artículo 19. Convocatoria y quórum del Consejo de Administración.
+  page: 15
+- level: 3
+  title: Artículo 20. Adopción de acuerdos.
+  page: 15
+- level: 3
+  title: Artículo 21. Dietas por asistencia a las reuniones del Consejo de Administración.
+  page: 15
+- level: 3
+  title: Articulo 22. Régimen jurídico aplicable al Consejo.
+  page: 15
+- level: 3
+  title: Artículo 23. El Presidente.
+  page: 16
+- level: 3
+  title: Artículo 24. Adopción excepcional de acuerdos.
+  page: 17
+- level: 3
+  title: Artículo 25. El Vicepresidente.
+  page: 17
+- level: 3
+  title: Artículo 26. El Secretario.
+  page: 17
+- level: 2
+  title: CAPÍTULO IV. Personal de la entidad
+  page: 17
+- level: 3
+  title: Artículo 27. Régimen del personal.
+  page: 17
+- level: 3
+  title: Artículo 28. Incompatibilidades.
+  page: 18
+- level: 3
+  title: Artículo 29. Competencias en materia de personal.
+  page: 18
+- level: 2
+  title: CAPÍTULO V. Régimen patrimonial
+  page: 18
+- level: 3
+  title: Artículo 30. Patrimonio de la entidad.
+  page: 18
+- level: 3
+  title: Artículo 31. Desafectación.
+  page: 18
+- level: 3
+  title: Artículo 32. Inventario.
+  page: 19
+- level: 2
+  title: CAPÍTULO VI. Régimen económico financiero
+  page: 19
+- level: 2
+  title: Seccion 1.ª Recursos de la entidad
+  page: 19
+- level: 3
+  title: Artículo 33. Recursos del Administrador de Infraestructuras Ferroviarias.
+  page: 19
+- level: 2
+  title: Sección 2.ª Financiación, planificación, contabilidad y control
+  page: 19
+- level: 3
+  title: Artículo 34. Afectación del importe de las tasas y los cánones ferroviarios.
+  page: 19
+- level: 3
+  title: Artículo 35. Operaciones financieras.
+  page: 20
+- level: 3
+  title: Artículo 36. El programa de actuación plurianual.
+  page: 20
+- level: 3
+  title: Artículo 37. Contabilidad.
+  page: 20
+- level: 3
+  title: Artículo 38. Control de eficacia.
+  page: 21
+- level: 3
+  title: Artículo 39. Control económico y financiero.
+  page: 21
+- level: 2
+  title: Sección 3.ª Régimen presupuestario
+  page: 21
+- level: 3
+  title: Artículo 40. Elaboración del presupuesto.
+  page: 21
+- level: 3
+  title: Articulo 41. Variación del presupuesto.
+  page: 21
+- level: 3
+  title: Artículo 42. Cuentas anuales.
+  page: 21
+- level: 3
+  title: Artículo 43. Aplicación de resultados.
+  page: 21
+- level: 3
+  title: Artículo 44. Régimen tributario.
+  page: 22
+- level: 2
+  title: Información relacionada
+  page: 22
+---
+
+# Real Decreto 2395/2004, de 30 de diciembre, por el que se aprueba el Estatuto de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias.
+
+
+<!-- ================= PAGE 1 OF 22 ================= -->
+
+# **LEGISLACIÓN CONSOLIDADA** 
+
+Real Decreto 2395/2004, de 30 de diciembre, por el que se aprueba el Estatuto de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias. 
+
+Ministerio de la Presidencia «BOE» núm. 315, de 31 de diciembre de 2004 Referencia: BOE-A-2004-21913 
+
+# ÍNDICE 
+
+|_Preámbulo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ._|4|
+|---|---|
+|_Artículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ._|5|
+|Artículo único. Aprobación del Estatuto de la entidad pública empresarial Administrador de<br>Infraestructuras Ferroviarias. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|5|
+|_Disposiciones adicionales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ._|5|
+|Disposición adicional primera. Comienzo de las actividades del Administrador de Infraestructuras<br>Ferroviarias. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|5|
+|Disposición adicional segunda. Sucesión de empresas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|5|
+|Disposición adicional tercera. Continuidad de las encomiendas a Gestor de Infraestructuras<br>Ferroviarias. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|6|
+|Disposición adicional cuarta. Encomienda de administración de la red de titularidad del Estado al<br>Administrador de Infraestructuras Ferroviarias. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|6|
+|_Disposiciones transitorias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ._|6|
+|Disposición transitoria primera. Ejercicio económico. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|6|
+|Disposición transitoria segunda. Expedientes de gasto, contratos en vigor y régimen de contabilidad. . .|6|
+|_Disposiciones derogatorias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ._|7|
+|Disposición derogatoria única. Derogación normativa.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|7|
+|_Disposiciones finales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ._|7|
+|Disposición final primera. Inventario de bienes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|7|
+
+
+
+Página 1
+
+<!-- ================= PAGE 2 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+|Disposición final segunda. Facultades de desarrollo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|7|
+|---|---|
+|Disposición final tercera. Entrada en vigor. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|7|
+|ESTATUTO DE LA ENTIDAD PÚBLICA EMPRESARIAL ADMINISTRADOR DE INFRAESTRUCTURAS||
+|FERROVIARIAS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|7|
+|CAPÍTULO I. Disposiciones generales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|7|
+|Artículo 1. Naturaleza y régimen jurídico. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|7|
+|Artículo 2. Autonomía de gestión.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|7|
+|CAPÍTULO II. Funciones del Administrador de Infraestructuras Ferroviarias. . . . . . . . . . . . . . . . . . . . . . . .|8|
+|Sección 1.ª Actividades a desarrollar por el Administrador de Infraestructuras Ferroviarias. . . . . . . . . . . . .|8|
+|Artículo 3. Competencias y funciones del Administrador de Infraestructuras Ferroviarias. . . . . . . . . . .|8|
+|Artículo 4. Convenios o contratos-programa.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|9|
+|Artículo 5. Redes de telecomunicaciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|9|
+|Sección 2.ª Construcción de las infraestructuras ferroviarias integrantes de la Red Ferroviaria de Interés<br>General. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|9|
+|Artículo 6. Proyectos y construcción.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|9|
+|Artículo 7. Expropiaciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|9|
+|Articulo 8. Puesta en funcionamiento de la infraestructura ferroviaria. . . . . . . . . . . . . . . . . . . . . . . .|10|
+|Sección 3.ª Administración de las infraestructuras ferroviarias integradas en la Red Ferroviaria de Interés<br>General. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|10|
+|Artículo 9. Ámbito. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|10|
+|Articulo 10. Mantenimiento de la infraestructura ferroviaria. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|10|
+|Artículo 11. Explotación de la infraestructura ferroviaria de alta velocidad y gestión de los sistemas de<br>control, de circulación y de seguridad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|10|
+|Artículo 12. La gestión de un registro telemático por el Administrador de Infraestructuras Ferroviarias. . .|11|
+|Sección 4.ª Régimen jurídico de la contratación en el Administrador de Infraestructuras Ferroviarias . . . . . .|11|
+|Artículo 13. Régimen jurídico de la contratación en el Administrador de Infraestructuras Ferroviarias. . .|11|
+|CAPÍTULO III. Organización de la entidad publica empresarial Administrador de Infraestructuras Ferroviarias . .|13|
+|Artículo 14. Órganos de gobierno. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|13|
+|Articulo 15. El Consejo de Administración. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|13|
+|Artículo 16. Competencias del Consejo de Administración.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|13|
+|Artículo 17. Delegación de competencias por el Consejo de Administración. . . . . . . . . . . . . . . . . . .|14|
+|Artículo 18. Comisiones Delegadas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|14|
+|Artículo 19. Convocatoria y quórum del Consejo de Administración. . . . . . . . . . . . . . . . . . . . . . . . .|15|
+
+
+
+Página 2
+
+<!-- ================= PAGE 3 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+|Artículo 20. Adopción de acuerdos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>15|
+|---|
+|Artículo 21. Dietas por asistencia a las reuniones del Consejo de Administración. . . . . . . . . . . . . . . .<br>15|
+|Articulo 22. Régimen jurídico aplicable al Consejo.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>15|
+|Artículo 23. El Presidente. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>16|
+|Artículo 24. Adopción excepcional de acuerdos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>17|
+|Artículo 25. El Vicepresidente.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>17|
+|Artículo 26. El Secretario.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>17|
+|CAPÍTULO IV. Personal de la entidad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>17|
+|Artículo 27. Régimen del personal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>17|
+|Artículo 28. Incompatibilidades. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>18|
+|Artículo 29. Competencias en materia de personal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>18|
+|CAPÍTULO V. Régimen patrimonial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>18|
+|Artículo 30. Patrimonio de la entidad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>18|
+|Artículo 31. Desafectación.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>18|
+|Artículo 32. Inventario.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>19|
+|CAPÍTULO VI. Régimen económico financiero . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>19|
+|Seccion 1.ª Recursos de la entidad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>19|
+|Artículo 33. Recursos del Administrador de Infraestructuras Ferroviarias. . . . . . . . . . . . . . . . . . . . .<br>19|
+|Sección 2.ª Financiación, planificación, contabilidad y control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>19|
+|Artículo 34. Afectación del importe de las tasas y los cánones ferroviarios. . . . . . . . . . . . . . . . . . . .<br>19|
+|Artículo 35. Operaciones financieras. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>20|
+|Artículo 36. El programa de actuación plurianual.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>20|
+|Artículo 37. Contabilidad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>20|
+|Artículo 38. Control de eficacia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>21|
+|Artículo 39. Control económico y financiero. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>21|
+|Sección 3.ª Régimen presupuestario . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>21|
+|Artículo 40. Elaboración del presupuesto. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>21|
+|Articulo 41. Variación del presupuesto. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>21|
+|Artículo 42. Cuentas anuales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>21|
+|Artículo 43. Aplicación de resultados. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>21|
+|Artículo 44. Régimen tributario. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>22|
+
+
+
+Página 3
+
+<!-- ================= PAGE 4 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+# TEXTO CONSOLIDADO Última modificación: 28 de diciembre de 2013 
+
+La Ley 39/2003, de 17 de noviembre, del Sector Ferroviario ha previsto, en su disposición adicional primera, que la entidad pública empresarial Red Nacional de los Ferrocarriles Españoles pase a denominarse Administrador de Infraestructuras Ferroviarias y asuma las funciones asignadas a éste en la citada Ley. La entidad, de conformidad con lo establecido en el artículo 20 de la citada Ley, estará adscrita al Ministerio de Fomento a través de la Secretaría General de Infraestructuras y gozará de personalidad jurídica propia y diferenciada de la del Estado, plena capacidad de obrar y patrimonio propio, y se regirá por lo establecido en la Ley del Sector Ferroviario, en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, en las normas de desarrollo de ambas, en el presente Estatuto y en las demás normas que le sean de aplicación. 
+
+Al mismo tiempo, la Ley prevé, en su disposición adicional segunda, la extinción de la entidad pública empresarial Gestor de Infraestructuras Ferroviarias y la subrogación de la entidad Administrador de Infraestructuras Ferroviarias en todos los derechos y obligaciones de aquélla. A efectos de lo dispuesto en el artículo 44 del Texto Refundido del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, se considerará que existe sucesión de empresas entre ambas entidades públicas empresariales. De esta manera, los trabajadores de la entidad pública empresarial Gestor de Infraestructuras Ferroviarias se integrarán en la entidad pública empresarial Administrador de Infraestructuras Ferroviarias. En cuanto a los funcionarios adscritos al Gestor de Infraestructuras Ferroviarias, se les reconoce, en la Ley, un derecho de opción pudiendo pasar a integrar la plantilla del personal laboral de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias, con reconocimiento de la antigüedad que les corresponda y quedando en sus cuerpos o escalas de origen en la situación de excedencia voluntaria, o bien acceder a los puestos que puedan corresponderles, conforme a la normativa reguladora de la función pública. 
+
+Además, se ha previsto, en la disposición adicional primera de la Ley del Sector Ferroviario, que la entidad resultante de la transformación adquirirá la titularidad de todos los bienes de dominio público o patrimoniales que la entidad Gestor de Infraestructuras Ferroviarias tuviera adscritos o le pertenecieran en la fecha de su entrada en vigor. 
+
+La entidad pública empresarial Administrador de Infraestructuras Ferroviarias, de acuerdo con el artículo 21 de la Ley del Sector Ferroviario, podrá construir las infraestructuras ferroviarias con cargo a sus propios recursos o con cargo a recursos ajenos conforme al correspondiente convenio y, en todo caso, de acuerdo con lo que determine el Ministerio de Fomento. Asimismo, administrará las infraestructuras de su titularidad y aquellas cuya administración se le encomiende, también, mediante el oportuno convenio Todo ello es consecuencia de la necesaria separación de las actividades de administración de la infraestructura y de prestación de los servicios que establece la Ley del Sector Ferroviario, que recogen la apertura del mercado ferroviario, correspondiendo al Administrador de Infraestructuras Ferroviarias la primera de las funciones y a la entidad pública empresarial RENFE-Operadora, la prestación de servicios de transporte ferroviario. 
+
+La Ley del Sector Ferroviario, en su disposición final primera, habilita al Gobierno para dictar cuantas disposiciones sean precisas para el desarrollo y cumplimiento de lo establecido en ella. Además, su artículo 28 faculta al Gobierno para la aprobación del Estatuto del Administrador de Infraestructuras Ferroviarias, que determinará su estructura organizativa básica, sus órganos de dirección, con especificación de su composición y atribuciones, y, en general, su régimen jurídico. 
+
+En su virtud, a iniciativa de la Ministra de Fomento y a propuesta de los Ministros de Administraciones Públicas y de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de diciembre de 2004, 
+
+Página 4
+
+<!-- ================= PAGE 5 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+DISPONGO: 
+
+**Artículo único.** _Aprobación del Estatuto de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias._ 
+
+Se aprueba el Estatuto de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias cuyo texto se inserta a continuación. 
+
+**Disposición adicional primera.** _Comienzo de las actividades del Administrador de Infraestructuras Ferroviarias._ 
+
+1. Con arreglo a la disposición adicional primera de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, la entidad pública empresarial RENFE pasa a denominarse, a partir del momento que, de conformidad con lo dispuesto en el Real Decreto-Ley 1/2004, de 7 de mayo, entre en vigor la referida Ley, Administrador de Infraestructuras Ferroviarias (ADIF) y asume las funciones asignadas al administrador de infraestructuras ferroviarias en la Ley del Sector Ferroviario y en sus normas de desarrollo. 
+
+2. Sin perjuicio del acrónimo indicado en el apartado anterior, el Administrador de Infraestructuras Ferroviarias podrá identificarse en sus relaciones externas como RENFEInfraestructura. 
+
+**Disposición adicional segunda.** _Sucesión de empresas._ 
+
+1. De conformidad con lo establecido en la disposición adicional primera de la Ley del Sector Ferroviario, el personal que a la entrada en vigor de la misma preste sus servicios en la entidad pública empresarial Red Nacional de los Ferrocarriles Españoles se mantendrá en la plantilla de la entidad pública empresarial ADIF, salvo el que esté vinculado a la prestación del servicio de transporte ferroviario y el que resulte preciso para la puesta en marcha de la entidad pública empresarial RENFE-Operadora a la que se refiere la disposición adicional tercera de la citada Ley, que se integrará en ésta con arreglo a lo que se determine mediante Orden del Ministro de Fomento. Dicha Orden Ministerial se dictará previa audiencia de los representantes de los trabajadores de la primera de las entidades citadas. 
+
+2. A efectos de lo dispuesto en el artículo 44 del Texto Refundido del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, se entenderá que existe sucesión de empresas entre la entidad pública empresarial Gestor de Infraestructuras Ferroviarias y la entidad pública empresarial ADIF. A tal efecto, los trabajadores de la entidad pública empresarial Gestor de Infraestructuras Ferroviarias se integrarán en la entidad pública empresarial Administrador de Infraestructuras Ferroviarias. 
+
+La transferencia efectiva del personal laboral que deba integrarse en la entidad pública empresarial ADIF y de los bienes que se le adscriban, se producirá el día de entrada en vigor del presente Real Decreto. 
+
+El Ministerio de Fomento velará, especialmente, por el adecuado cumplimiento de lo previsto en los párrafos anteriores, promoviendo la interlocución entre las entidades y los representantes de los colectivos de trabajadores afectados por su aplicación. Asimismo, tutelará el respeto de las condiciones laborales del personal de la entidad en tanto éstas no sean sustituidas mediante la correspondiente negociación colectiva. 
+
+3. Los funcionarios adscritos a la entidad pública empresarial Gestor de Infraestructuras Ferroviarias que resulten afectados por la extinción de esta entidad podrán optar, en el plazo de un mes desde que se produzca la publicación del presente Real Decreto en el Boletín Oficial del Estado, por integrarse en la plantilla del personal laboral de la entidad pública empresarial ADIF, con reconocimiento de la antigüedad que les corresponda y quedando en sus cuerpos o escalas de origen en la situación de excedencia voluntaria prevista en el artículo 29.3 a) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, o por acceder a los puestos que puedan corresponderles, conforme a la normativa reguladora de la Función Pública. 
+
+4. El personal cualificado del Administrador de Infraestructuras Ferroviarias que ejerza, a la entrada en vigor de la Ley del Sector Ferroviario, funciones relacionadas con la gestión de la circulación del tráfico ferroviario, se entenderá habilitado para el desempeño de las mismas a partir de la referida fecha, así como el material rodante que esté a disposición de la referida entidad se considerará homologado. 
+
+Página 5
+
+<!-- ================= PAGE 6 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+No obstante lo anterior, en el plazo de dos años computado desde la misma fecha, dicho personal deberá ser habilitado y el referido material homologado en la forma que establezcan las correspondientes Órdenes del Ministro de Fomento. 
+
+**Disposición adicional tercera.** _Continuidad de las encomiendas a Gestor de Infraestructuras Ferroviarias._ 
+
+1. Las atribuciones y encomiendas de construcción o administración de líneas ferroviarias que, con anterioridad a la entrada en vigor de este Real Decreto, hubieran sido efectuadas a favor de Gestor de Infraestructuras Ferroviarias, se entenderán, a partir de dicha fecha, referidas al ADIF, que pasará a ostentar la posición que respecto de tales atribuciones y encomiendas correspondía a Gestor de Infraestructuras Ferroviarias, entendiéndose cumplido, a tal efecto, lo dispuesto en el artículo 6.1 del Estatuto que se aprueba por este Real Decreto en cuanto a la necesaria resolución del Ministerio de Fomento para el establecimiento o modificación de líneas ferroviarias o de tramos de las mismas. El Administrador de Infraestructuras Ferroviarias, igualmente, ostentará, respecto de las encomiendas de construcción, las facultades de supervisión de los correspondientes proyectos de construcción, de su replanteo y, en su caso, de certificación del cumplimiento, por éstos, de la Declaración de Impacto ambiental. 
+
+2. Asimismo, cuantas encomiendas de gestión hubieran sido realizadas a favor de Gestor de Infraestructuras Ferroviarias, se entenderán, a la misma fecha, realizadas a favor del ADIF, al cual le corresponderá el ejercicio de las citadas actividades encomendadas. 
+
+**Disposición adicional cuarta.** _Encomienda de administración de la red de titularidad del Estado al Administrador de Infraestructuras Ferroviarias._ 
+
+Toda la red que, con arreglo a la Ley del Sector Ferroviario, sea de titularidad del Estado y que, en el momento de su entrada en vigor, esté siendo administrada por Red Nacional de los Ferrocarriles Españoles (RENFE) queda encomendada, para su administración, al ADIF. 
+
+Se exceptúan de tal encomienda la línea Lleida-La Pobla de Segur y el tramo Quart de Poblet-Ribarroja, de la línea Valencia-Ribarroja, que no se integrarán en la Red Ferroviaria de Interés General. 
+
+## **Disposición transitoria primera.** _Ejercicio económico._ 
+
+El primer ejercicio económico del ADIF comenzará a contarse desde el día siguiente a la 
+
+fecha de entrada en vigor de este Real Decreto y finalizará el 31 de diciembre de 2005. 
+
+El último ejercicio económico de la entidad pública empresarial Red Nacional de los 
+
+Ferrocarriles Españoles finalizará el día de la entrada en vigor del presente Real Decreto. 
+
+**Disposición transitoria segunda.** _Expedientes de gasto, contratos en vigor y régimen de_ 
+
+_contabilidad._ 
+
+1. Los expedientes de gastos relacionados con la administración de las infraestructuras ferroviarias que hayan sido iniciados por la entidad pública empresarial Red Nacional de los Ferrocarriles Españoles y que estén pendientes de resolución en la fecha de efectiva constitución de la entidad pública empresarial ADIF, continuarán su tramitación por ésta. 
+
+2. La entidad pública empresarial ADIF quedará subrogada en todos los contratos 
+
+celebrados por la entidad pública empresarial Gestor de Infraestructuras Ferroviarias. 
+
+A los efectos de esta subrogación, el ADIF elaborará, bajo la supervisión del Ministerio de Fomento, un acta en la que se precisará la situación concreta de ejecución de los contratos respecto de los que se produzca la subrogación, indicando, expresamente, las cantidades pendientes de pago o de cobro. 
+
+Respecto de los expedientes de contratación iniciados por Gestor de Infraestructuras Ferroviarias y que, a la fecha de entrada en vigor de este Real Decreto, se hallen en tramitación, las actuaciones proseguirán en el estado en que se encuentren, a cuyo efecto el ADIF quedará subrogado en la posición que ostentaba Gestor de Infraestructuras Ferroviarias en tales expedientes. 
+
+Página 6
+
+<!-- ================= PAGE 7 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+## **Disposición derogatoria única.** _Derogación normativa._ 
+
+Quedan derogados el Real Decreto 121/1994, de 28 de enero, por el que se aprueba el Estatuto de la entidad pública empresarial Red Nacional de los Ferrocarriles Españoles y el Real Decreto 613/1997, de 25 de abril, por el que se aprueba el Estatuto del ente público Gestor de Infraestructuras Ferroviarias, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto. 
+
+## **Disposición final primera.** _Inventario de bienes._ 
+
+El ADIF realizará en el plazo de dos años desde el comienzo de sus actividades, el inventario, completo y auditado, de los bienes que integran su patrimonio. Hasta dicho momento, la actualización del inventario se efectuará con arreglo al procedimiento regulado en el artículo 32 de su Estatuto. 
+
+## **Disposición final segunda.** _Facultades de desarrollo._ 
+
+Se autoriza al Ministro de Fomento para dictar cuantas disposiciones y medidas se estimen necesarias para el desarrollo y la aplicación de este Real Decreto. 
+
+## **Disposición final tercera.** _Entrada en vigor._ 
+
+El presente real decreto entrará en vigor el 31 de diciembre de 2004. 
+
+Dado en Madrid, el 30 de diciembre de 2004. 
+
+JUAN CARLOS R. 
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ 
+
+## **ESTATUTO DE LA ENTIDAD PÚBLICA EMPRESARIAL ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS.** 
+
+## CAPÍTULO I 
+
+## **Disposiciones generales** 
+
+## **Artículo 1.** _Naturaleza y régimen jurídico._ 
+
+1. La entidad pública empresarial Administrador de Infraestructuras Ferroviarias (ADIF) se configura como un organismo público de los previstos en el artículo 43.1.b) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, adscrito al Ministerio de Fomento a través de la Secretaría General de Infraestructuras. Goza de personalidad jurídica propia, plena capacidad de obrar para el cumplimiento de sus fines y patrimonio propio y se rige por lo establecido en la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, en las normas de desarrollo de ambas, en el presente Estatuto y en la legislación presupuestaria y demás normas que le sean de aplicación. En defecto de estas normas, se le aplicará el ordenamiento jurídico privado. 
+
+2. Será de aplicación al ADIF lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, cuando ejerza potestades administrativas y en lo relativo a la formación de voluntad de sus órganos. 
+
+## **Artículo 2.** _Autonomía de gestión._ 
+
+En el ejercicio de sus funciones, el ADIF actuará con autonomía de gestión, dentro de los límites establecidos en la Ley del Sector Ferroviario, en el presente Estatuto y demás legislación que le sea de aplicación, y teniendo en cuenta, en todo caso, la garantía del 
+
+Página 7
+
+<!-- ================= PAGE 8 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+interés público, la satisfacción de las necesidades sociales con la máxima calidad, la seguridad de los usuarios y la eficacia global del sistema ferroviario. 
+
+## CAPÍTULO II 
+
+## **Funciones del Administrador de Infraestructuras Ferroviarias** 
+
+## **_Sección 1.ª Actividades a desarrollar por el Administrador de Infraestructuras Ferroviarias_** 
+
+**Artículo 3.** _Competencias y funciones del Administrador de Infraestructuras Ferroviarias._ 
+
+1. De acuerdo con lo establecido en el artículo 21 de la Ley del sector Ferroviario, corresponden al ADIF las siguientes competencias: 
+
+a) La aprobación de los proyectos básicos y de construcción de infraestructuras ferroviarias que deban formar parte de la Red Ferroviaria de Interés General, si así se establece en la correspondiente resolución del Ministerio de Fomento que determine su establecimiento o modificación, y su construcción siempre que se lleve a cabo con sus propios recursos y, en todo caso, con arreglo a lo que disponga el Ministerio de Fomento. 
+
+b) La construcción de infraestructuras ferroviarias, con recursos del Estado o de un tercero, conforme al correspondiente convenio. 
+
+c) La administración de las infraestructuras ferroviarias de su titularidad. 
+
+d) El control e inspección de la infraestructura ferroviaria, de sus zonas de protección y de la circulación ferroviaria que sobre ella se produzca.. 
+
+e) La explotación de los bienes de su titularidad, de los que le sean adscritos y de aquellos cuya gestión se le encomiende. 
+
+f) La elaboración y publicación de la declaración sobre la red, en los términos previstos en la Ley del Sector Ferroviario y en sus normas de desarrollo. 
+
+g) La adjudicación de capacidad de infraestructura a las empresas ferroviarias que lo soliciten y la celebración de acuerdos marco con aquéllas. 
+
+h) La emisión de informes con carácter previo al otorgamiento, por el Ministerio de Fomento, de las licencias de empresa ferroviaria y de las autorizaciones para prestar servicios que se hayan declarado de interés público, en los casos previstos en la Ley del Sector Ferroviario. 
+
+i) El otorgamiento de los certificados de seguridad, cuando así se determine por el Ministerio de Fomento. 
+
+j) La elaboración de las instrucciones y circulares necesarias para determinar, con precisión, las condiciones de operación sobre la Red Ferroviaria de Interés General. 
+
+k) La prestación de servicios adicionales y, en su caso, de servicios complementarios y auxiliares de transporte ferroviario. 
+
+l) La elevación al Ministerio de Fomento de las propuestas de tarifas por la prestación de servicios adicionales y complementarios, y la fijación de los precios de los servicios auxiliares. 
+
+m) La propuesta de modificación y actualización de los cánones por utilización de las infraestructuras ferroviarias que administre, la gestión, liquidación y recaudación de los que se devenguen por la utilización de dichas infraestructuras, así como, en su caso, el cobro de las tarifas por los servicios adicionales, complementarios y auxiliares. 
+
+n) La gestión, liquidación y recaudación de las tasas, de conformidad con lo establecido en la Ley del Sector Ferroviario. 
+
+ñ) La cooperación, con los organismos que en otros Estados miembros de la Unión Europea administren las infraestructuras ferroviarias, para establecer y adjudicar capacidad de infraestructura que abarque más de una red nacional. 
+
+o) La celebración, con las empresas ferroviarias, de acuerdos marco. 
+
+p) El establecimiento de las pautas que regulen el procedimiento para realizar la 
+
+investigación de los accidentes ferroviarios que le correspondan. 
+
+q) La elaboración de un informe anual que contemple todos los incidentes y accidentes producidos como consecuencia de la prestación del servicio de transporte ferroviario. 
+
+Página 8
+
+<!-- ================= PAGE 9 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+r) La elaboración de un plan de contingencias que recoja las medidas necesarias para reestablecer la situación de normalidad en caso de accidente, de fallo técnico o de cualquier otra incidencia que perturbe el tráfico ferroviario. 
+
+s) La resolución de las reclamaciones de responsabilidad patrimonial que se formulen 
+
+respecto de la actuación del mismo. 
+
+t) Cuantas otras le atribuya la normativa aplicable. 
+
+2. El ADIF no podrá prestar servicios de transporte ferroviario, salvo aquellos que sean 
+
+inherentes a su propia actividad. 
+
+3. Para el cumplimiento de sus funciones, el ADIF podrá realizar toda clase de actos de 
+
+administración y disposición previstos en la legislación civil y mercantil. 
+
+## **Artículo 4.** _Convenios o contratos-programa._ 
+
+1. El ADIF podrá celebrar convenios con las Comunidades Autónomas para la construcción y la administración de las redes ferroviarias de éstas o de tramos de las mismas. 
+
+2. El ADIF podrá celebrar cualesquiera convenios con la Administración General del 
+
+Estado o con otras Administraciones Públicas para el mejor cumplimiento de sus fines. 
+
+3. Asimismo, el ADIF podrá celebrar con RENFE-Operadora, con empresas ferroviarias o con cualquier entidad pública o privada, convenios de colaboración, los cuales podrán tener por objeto el régimen de utilización de instalaciones o dependencias de interés común, pudiendo realizarse actividades mercantiles complementarias con el objeto del convenio o necesarias para el cumplimiento del mismo. 
+
+## **Artículo 5.** _Redes de telecomunicaciones._ 
+
+El ADIF podrá establecer y explotar redes de telecomunicaciones en los términos previstos en la Ley 32/2003, de 3 de noviembre, General de las Telecomunicaciones y en su normativa de desarrollo. 
+
+## **_Sección 2.ª Construcción de las infraestructuras ferroviarias integrantes de la Red Ferroviaria de Interés General_** 
+
+## **Artículo 6.** _Proyectos y construcción._ 
+
+1. La Resolución del Ministerio de Fomento que, de conformidad con lo dispuesto en el artículo 6 de la Ley del Sector Ferroviario, determine el establecimiento o modificación de las líneas ferroviarias integrantes de la Red Ferroviaria de Interés General o de tramos de las mismas, establecerá si la aprobación de los proyectos básicos y de construcción y la ejecución de las obras se realizará por ADIF. 
+
+2. En el supuesto de que la resolución a que se refiere el apartado anterior determine que la aprobación de los proyectos básicos y de construcción corresponde al ADIF, éste ostentará, asimismo, las facultades de supervisión y replanteo de los referidos proyectos y, en su caso, la de certificación del cumplimiento de la declaración de impacto ambiental de los mismos. 
+
+3. Cuando en virtud de la referida resolución, corresponda al ADIF la ejecución de las obras de construcción de líneas ferroviarias integrantes de la Red Ferroviaria de Interés General o de tramos de las mismas, éste habrá de acometer la construcción con sus propios recursos, en el marco presupuestario autorizado, a estos efectos, por el Ministro de Economía y Hacienda. 
+
+## **Artículo 7.** _Expropiaciones._ 
+
+1. De conformidad con lo establecido en el artículo 6 de la Ley del Sector Ferroviario, las expropiaciones que hayan de tener lugar para la construcción por el ADIF de líneas ferroviarias, de tramos de las mismas u otros elementos de la infraestructura ferroviaria que hayan de integrar la Red Ferroviaria de Interés General, ya sea con recursos propios u obtenidos a través del correspondiente convenio, se regirán por la legislación general de expropiación forzosa, teniendo en cuenta las reglas siguientes: 
+
+Página 9
+
+<!-- ================= PAGE 10 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+a) La potestad expropiatoria será ejercida por la Administración General del Estado y el beneficiario de la expropiación será el Administrador de Infraestructuras Ferroviarias, que abonará el justiprecio de las expropiaciones. En todo caso, el beneficiario de la expropiación tendrá los derechos y obligaciones previstos en la legislación sobre Expropiación Forzosa. 
+
+b) La aprobación por el ADIF o por el Ministerio de Fomento, del correspondiente proyecto básico o del de construcción de líneas ferroviarias, tramos de las mismas u otros elementos de la infraestructura ferroviaria, o de modificación de las preexistentes, que requiera la utilización de nuevos terrenos, supondrá la declaración de utilidad pública o interés social, la necesidad de ocupación y la declaración de urgencia de la misma, a efectos de la expropiación forzosa de aquellos terrenos en los que deba construirse la línea, el tramo o el elemento de la infraestructura ferroviaria, o que sean necesarios para modificar las preexistentes, según lo previsto en la legislación expropiatoria. 
+
+2. En la zona de protección hasta la línea límite de edificación, el ADIF podrá solicitar al Ministerio de Fomento la expropiación de bienes que pasarán a tener la consideración de dominio público, entendiéndose implícita la declaración de utilidad pública y la necesidad de su ocupación, siempre que se justifique su interés para la idónea prestación de los servicios ferroviarios y para la seguridad de la circulación. 
+
+3. La aprobación por el Ministerio de Fomento del Proyecto de Delimitación y Utilización de Espacios Ferroviarios a que se refiere el artículo 9 de la Ley del Sector Ferroviario llevará implícita la declaración de utilidad pública o interés social, la necesidad de ocupación y la declaración de urgencia de la misma, a efectos expropiatorios de los bienes y derechos necesarios para su implantación. 
+
+## **Articulo 8.** _Puesta en funcionamiento de la infraestructura ferroviaria._ 
+
+Con carácter previo al inicio de la explotación de líneas, tramos y terminales de la infraestructura ferroviaria, el ADIF deberá obtener la autorización del Ministerio de Fomento que acredite que aquéllas pueden abrirse al tránsito ferroviario público. Respecto de la apertura al tránsito ferroviario del resto de los elementos que integran la infraestructura, se cumplirán por el ADIF las reglas que determine el Ministerio de Fomento. 
+
+## **_Sección 3.ª Administración de las infraestructuras ferroviarias integradas en la Red Ferroviaria de Interés General_** 
+
+## **Artículo 9.** _Ámbito._ 
+
+1. La administración de las infraestructuras ferroviarias integradas en la Red Ferroviaria de Interés General tiene por objeto el mantenimiento y la explotación de aquéllas, así como la gestión de sus sistemas de control, de circulación y de seguridad. 
+
+2. ADIF es competente para mantener y explotar las infraestructuras ferroviarias de las que es titular, así como para gestionar sus sistemas de control, de circulación y de seguridad. 
+
+## **Articulo 10.** _Mantenimiento de la infraestructura ferroviaria._ 
+
+1. A los efectos de este Estatuto, se entiende por mantenimiento de infraestructura ferroviaria el conjunto de las operaciones de conservación, reparación, reposición y actualización tecnológica de elementos que permita preservar las infraestructuras ferroviarias, integradas en la Red Ferroviaria de Interés General, en condiciones de operatividad y seguridad adecuadas. 
+
+2. Corresponde al ADIF la realización de los estudios y la aprobación y el replanteo de los proyectos, y de sus modificaciones, que sean necesarios para el mantenimiento de la infraestructura. La redacción material de los estudios y proyectos se llevará a cabo por el propio ADIF o por medio de terceros. 
+
+**Artículo 11.** _Explotación de la infraestructura ferroviaria de alta velocidad y gestión de los sistemas de control, de circulación y de seguridad._ 
+
+1. ADIF realizará la explotación de la infraestructura ferroviaria de su titularidad con arreglo a lo previsto en la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, en el 
+
+Página 10
+
+<!-- ================= PAGE 11 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+desarrollo reglamentario de la misma en relación con la administración de las infraestructuras ferroviarias y en las demás normas que resulten de aplicación. 
+
+2. Con arreglo a lo previsto en el artículo 22.4 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, las funciones inherentes a la gestión del sistema de control, de circulación y de seguridad no podrán encomendarse a terceros, con la única excepción de lo dispuesto en el artículo 1.7 del Real Decreto-ley 15/2013, de 13 de diciembre. Se entenderá que dichas funciones son las que se refieren a la prestación del servicio tendente a garantizar la eficacia del sistema y su plena fiabilidad. 
+
+**Artículo 12.** _La gestión de un registro telemático por el Administrador de Infraestructuras Ferroviarias._ 
+
+1. El ADIF gestionará, con arreglo a lo establecido en el artículo 38.9 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, un Registro telemático habilitado para la recepción o salida de las solicitudes, las comunicaciones y cualesquiera escritos relativos al procedimiento de adjudicación de capacidad de infraestructura ferroviaria, en los términos que prevea la normativa de desarrollo de la Ley del Sector Ferroviario. 
+
+2. Este Registro telemático deberá cumplir con los requisitos establecidos en el artículo 38.3 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y permitirá, de modo permanente, la presentación de solicitudes, comunicaciones y cualesquiera escritos. A efectos del cómputo de plazos, la recepción de un documento en día inhábil se entenderá efectuada en el primer día hábil siguiente. 
+
+3. Las solicitudes, las comunicaciones y cualesquiera escritos presentados ante el Registro telemático deberán cumplir los criterios de disponibilidad, autenticidad, integridad, confidencialidad y conservación de la información que se determinen por Orden del Ministerio de la Presidencia, dictada a propuesta conjunta del de Fomento y del de Administraciones Públicas. 
+
+## **_Sección 4.ª Régimen jurídico de la contratación en el Administrador de Infraestructuras Ferroviarias_** 
+
+**Artículo 13.** _Régimen jurídico de la contratación en el Administrador de Infraestructuras_ 
+
+_Ferroviarias._ 
+
+1. La contratación de las obras de construcción o modificación de la infraestructura ferroviaria se llevará a cabo por el ADIF previa tramitación por el mismo del correspondiente expediente de contratación. 
+
+Se entenderá por obras de modificación de líneas ferroviarias las que impliquen alteraciones sustanciales del trazado de las mismas tales como obras de adecuación de su trazado a alta velocidad, obras de duplicación de la vía ferroviaria existente, variantes u otras obras de similares características. 
+
+2. El Administrador de Infraestructuras Ferroviarias (ADIF) contratará con arreglo a lo previsto en la Ley 31/2007, de 30 de octubre, sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales. En los supuestos en que no sea de aplicación esta Ley, el Administrador de Infraestructuras Ferroviarias (ADIF) acomodará su actuación a las instrucciones internas que deberá aprobar dicha entidad para la adjudicación de contratos no sujetos a regulación armonizada, conforme a lo dispuesto en el artículo 191 del Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre. 
+
+No obstante lo anterior, el Administrador de Infraestructuras Ferroviarias (ADIF) ajustará su actividad a las normas establecidas para las Administraciones Públicas en el Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, en la preparación, adjudicación, cumplimiento, efectos y extinción de los contratos de obras de construcción o modificación de las infraestructuras ferroviarias, a excepción de las obras de electrificación y señalización, el mantenimiento de la infraestructura ferroviaria y la gestión de los sistemas de control, circulación y seguridad del tráfico. 
+
+Página 11
+
+<!-- ================= PAGE 12 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+3. En aquellos contratos en los que, de conformidad con el apartado anterior, se incluyan prestaciones cuya contratación se encuentre sometida al Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, junto con prestaciones cuya contratación se encuentre sujeta a la Ley 31/2007, de 30 de octubre, sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales, y/o junto con prestaciones cuya contratación se rija por las instrucciones internas que apruebe la entidad conforme a lo dispuesto en el artículo 191 de dicho texto refundido, el Administrador de Infraestructuras Ferroviarias (ADIF) atenderá en todo caso, para la determinación de las normas que deba observar en la preparación y adjudicación, efectos y extinción de los citados contratos, al carácter de la prestación que tenga más importancia desde el punto de vista económico. 
+
+Cuando en estos supuestos en que se pretende la ejecución de varias actividades, se ponga de manifiesto, mediante el documento de evaluación previa a que se refiere el artículo 134 del Texto Refundido de la Ley de Contratos del Sector Público, las circunstancias a las que se refiere el citado artículo 134, y que las fórmulas alternativas de contratación previstas en la normativa que resulte de aplicación, según las reglas anteriores, no permiten la satisfacción de las finalidades y objetivos proyectados, el Administrador de Infraestructuras Ferroviarias (ADIF) podrá realizar la construcción o administración de infraestructuras ferroviarias mediante la celebración de contratos de colaboración entre el sector público y el sector privado definidos en el artículo 11 del texto refundido de la Ley de Contratos del Sector Público. Estos contratos se regirán, con las especialidades previstas en la presente Ley, por las normas que resulten de aplicación según lo señalado en el párrafo primero de este apartado 3, salvo en los supuestos en los que se incluya entre las actuaciones a realizar la ejecución de obras de plataforma y/o de montaje de vía en los que el Administrador de Infraestructuras Ferroviarias (ADIF) ajustará su actividad a las normas establecidas para las Administraciones Públicas en el Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, relativas a los contratos de colaboración entre el sector púbico y el sector privado, con independencia del porcentaje que representen cada una de las prestaciones desde el punto de vista económico respecto del presupuesto total del contrato. 
+
+En los contratos de colaboración entre el sector público y el sector privado el plazo de ejecución del contrato vendrá determinado en función de la amortización de las inversiones o de las fórmulas de financiación que se prevean, sin que resulte de aplicación la limitación prevista en el artículo 314 del citado Texto Refundido de la Ley de Contratos del Sector Público; no obstante, la duración de estos contratos en ningún caso podrá exceder de cuarenta años. Asimismo, en todos aquellos contratos de colaboración entre el sector público y el sector privado cuyo valor estimado sea igual o superior a doce millones de euros, la aprobación del expediente exigirá con carácter previo la autorización del Consejo de Ministros e informe preceptivo y vinculante del Ministerio de Hacienda y Administraciones Públicas que se pronuncie sobre las repercusiones presupuestarias y compromisos financieros que conlleva, así como sobre su incidencia en el cumplimiento del objetivo de estabilidad presupuestaria. 
+
+4. El Administrador de Infraestructuras Ferroviarias (ADIF) podrá, asimismo, realizar la construcción o administración de infraestructuras ferroviarias mediante la celebración del oportuno contrato de concesión de obra pública, que se regirá por lo dispuesto en el Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, con las especificaciones previstas en la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario. 
+
+5. Para la adjudicación, por el procedimiento abierto o restringido, de aquellos contratos sujetos al Texto Refundido de la Ley de Contratos de las Administraciones Públicas, de conformidad con lo dispuesto en el apartado 1 de este artículo, el órgano de contratación de la entidad que corresponda estará asistido por una Mesa de Contratación constituida por un Presidente, un mínimo de cuatro Vocales, uno de los cuales habrá de ser licenciado en Derecho y tener atribuido el asesoramiento jurídico en la entidad y otro un interventor, y por un Secretario. En los procedimientos negociados, la designación de la Mesa de Contratación será potestativa para el órgano de contratación. 
+
+Los miembros de la Mesa de Contratación, que habrá de estar integrada por personal de la Entidad, serán designados por el órgano de contratación correspondiente con carácter 
+
+Página 12
+
+<!-- ================= PAGE 13 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+permanente o para la adjudicación de determinado o determinados contratos. Si la designación fuera permanente o para una pluralidad de contratos, la composición de la Mesa deberá publicarse en el Boletín Oficial del Estado. 
+
+CAPÍTULO III 
+
+**Organización de la entidad publica empresarial Administrador de Infraestructuras Ferroviarias** 
+
+**Artículo 14.** _Órganos de gobierno._ 
+
+Los órganos de gobierno del ADIF son los siguientes: 
+
+a) El Consejo de Administración. 
+
+b) El Presidente. 
+
+## **Articulo 15.** _El Consejo de Administración._ 
+
+1. El ADIF está regido por un Consejo de Administración encargado de la superior dirección de su administración y gestión, formado por el Presidente y por un mínimo de nueve y un máximo de diez Vocales. El nombramiento y cese de los Vocales corresponde al Ministerio de Fomento. 
+
+2. El Presidente de la entidad será el Presidente del Consejo de Administración de la misma. 
+
+En caso de vacante, ausencia o enfermedad del Presidente, asumirá la presidencia del Consejo el Vicepresidente, si lo hubiera o, en su defecto, el Vocal más antiguo y, a igual antigüedad, el de más edad. 
+
+## **Artículo 16.** _Competencias del Consejo de Administración._ 
+
+1. Al Consejo de Administración le corresponden, conforme al presente Estatuto y de acuerdo con lo previsto en la legislación vigente, las siguientes competencias: 
+
+a. Determinar la estructura de la entidad, aprobar los criterios generales sobre la organización y las directrices para la elaboración y la modificación de la plantilla, así como para la determinación de las condiciones retributivas básicas, dentro del marco de actuación al que se refiere el artículo 29. 
+
+b. Proponer al Ministerio de Fomento las normas que hayan de dictarse en desarrollo del presente Estatuto e informar sobre su contenido con carácter previo a su aprobación definitiva o a su modificación. 
+
+c. Emitir los informes que, conforme a lo previsto en la Ley del Sector Ferroviario, en sus normas de desarrollo y en este Estatuto, hayan de ser evacuados por el Administrador de Infraestructuras Ferroviarias, con carácter preceptivo o potestativo, a requerimiento de los órganos de cualesquiera Administraciones Públicas. 
+
+d. Dictar las normas de funcionamiento y de adopción de acuerdos del propio Consejo de Administración, en lo no previsto en el presente Estatuto. 
+
+e. Aprobar, inicialmente, los presupuestos anuales de explotación y capital y el programa de actuación plurianual y elevarlos al Ministerio de Fomento para su tramitación, conforme a lo establecido en la Ley 47/2003, de 26 de noviembre, General Presupuestaria. 
+
+f. Aprobar las cuentas anuales, el informe de gestión y la propuesta de aplicación de 
+
+resultados de la entidad, todo ello de conformidad con lo establecido en este Estatuto. 
+
+g. Autorizar las operaciones de crédito y demás operaciones de endeudamiento que 
+
+pueda convenir la entidad. 
+
+h. Actuar como órgano de contratación en los contratos cuyo importe exceda la cantidad que requiere, de conformidad con el artículo 12.2.a) del Texto Refundido de la Ley de Contratos de las Administraciones Públicas, la autorización de los mismos por el Consejo de Ministros y en los que tengan un importe inferior si lo estimase conveniente. 
+
+i. Acordar la participación en el capital social de toda clase de entidades que tengan el carácter de sociedad mercantil y que estén relacionadas con sus actividades, con arreglo a lo previsto en la Ley. 
+
+j. Conferir poderes generales o especiales a persona o personas determinadas. 
+
+Página 13
+
+<!-- ================= PAGE 14 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+k. Aprobar los acuerdos, pactos, convenios y contratos que considere convenientes o necesarios para la realización de los fines de la entidad, incluyendo la adquisición y enajenación de inmuebles y constitución de derechos reales. Las enajenaciones de cuantía superior a 20.000.000 de euros habrán de ser autorizadas por el Consejo de Ministros, a propuesta del de Economía y Hacienda. 
+
+l. Aprobar, a instancia del Presidente, la propuesta de los contratos-programa. 
+
+m. Aprobar el inventario de bienes y derechos de conformidad con lo establecido en la 
+
+Ley del Patrimonio de las Administraciones Públicas. 
+
+n. Aprobar la declaración sobre la red y ejercer las demás funciones que se atribuyen al administrador de infraestructuras ferroviarias en cuanto al acceso a las infraestructuras de su titularidad en la Ley del Sector Ferroviario y en su normativa de desarrollo. 
+
+ñ. Emitir informes con carácter previo al otorgamiento, por el Ministerio de Fomento, de las licencias de empresa ferroviaria y de las autorizaciones para prestar servicios que se hayan declarado de interés público, en los casos previstos en la Ley del Sector Ferroviario. 
+
+o. Otorgar y renovar los certificados de seguridad, cuando así lo determine el Ministerio de Fomento. 
+
+p. Aprobar la propuesta de modificación y actualización de los cánones por utilización de las infraestructuras ferroviarias, así como las propuestas de las tarifas por prestación de servicios adicionales y complementarios a elevar al Ministerio de Fomento, y fijar los precios por la prestación de servicios auxiliares. 
+
+q. Aprobar los convenios que la entidad pública empresarial celebre con los organismos que en otros Estados miembros de la Unión Europea administren las infraestructuras ferroviarias para establecer y adjudicar capacidad de infraestructura que abarque más de una red nacional. 
+
+r. Declarar la innecesariedad de los bienes de dominio público de su titularidad y acordar la desafectación de los bienes de dominio público de titularidad del Administrador de Infraestructuras Ferroviarias, con arreglo a lo determinado en el artículo 31. 
+
+s. Aprobar las instrucciones y circulares necesarias para determinar, con precisión, las condiciones de operación de la infraestructura ferroviaria. 
+
+t. Aprobar las pautas que regulen el procedimiento para realizar la investigación interna 
+
+de los accidentes ferroviarios que le correspondan. 
+
+u. Aprobar un informe anual que contemple todos los incidentes y accidentes producidos como consecuencia de la prestación del servicio de transporte ferroviario. 
+
+v. Aprobar un plan de contingencias que recoja las medidas necesarias para reestablecer la situación de normalidad en caso de accidente, de fallo técnico o de cualquier otra incidencia que perturbe el tráfico ferroviario. 
+
+w. Las demás que se le atribuyan en este Estatuto o en otras disposiciones. 
+
+2. Las resoluciones que dicte el Consejo de Administración en el ejercicio de potestades administrativas pondrán fin a la vía administrativa, con la excepción prevista en el artículo 34.5. 
+
+## **Artículo 17.** _Delegación de competencias por el Consejo de Administración._ 
+
+1. El Consejo de Administración podrá delegar sus competencias en el Presidente, en las Comisiones Delegadas que se constituyan y en los restantes órganos internos de la entidad que éste determine, con excepción de las señaladas e las letras a), b), d), e), f), g), i), l), m), o), p) y r) del apartado 1 del artículo anterior. 
+
+Asimismo, sin perjuicio de lo anterior, el Consejo de Administración podrá delegar en el Presidente y en las Comisiones Delegadas las facultades que, según lo dispuesto en la letra h) del artículo anterior, le corresponden como órgano de contratación, salvo aquellas que impliquen la aprobación del expediente, del gasto, la apertura del procedimiento de adjudicación y la adjudicación misma del contrato. 
+
+2. No será delegable, en ningún caso, la aprobación de la declaración sobre la red. 
+
+## **Artículo 18.** _Comisiones Delegadas._ 
+
+El Consejo de Administración, en atención a la naturaleza de los asuntos a tratar, podrá constituir en su seno Comisiones Delegadas, a las que podrá delegar sus competencias 
+
+Página 14
+
+<!-- ================= PAGE 15 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+dentro de los límites previstos en el artículo anterior, teniendo en cuenta la especialización de sus miembros. 
+
+El acuerdo de constitución fijará el alcance de la delegación, el número de Vocales, no inferior a tres ni superior a siete, que formen parte de las mismas y sus normas de funcionamiento. En su defecto, serán de aplicación a las Comisiones Delegadas las normas establecidas para el Consejo de Administración. Las Comisiones Delegadas serán presididas por el Presidente de la entidad y actuará como Secretario quien lo fuere del Consejo de Administración. 
+
+## **Artículo 19.** _Convocatoria y quórum del Consejo de Administración._ 
+
+1. El Consejo de Administración se reunirá, previa convocatoria y a iniciativa de su Presidente o a petición, al menos, de la mitad de los Vocales, tantas veces como sea necesario para el desarrollo de las funciones de la entidad y, al menos, once al año. Podrán asistir a las reuniones del Consejo de Administración, con voz pero sin voto, todas aquellas personas que sean requeridas para ello y sean convocadas por el Presidente del órgano, previo acuerdo de éste. 
+
+2. La convocatoria del Consejo de Administración se cursará por el Secretario del Consejo, por escrito, al menos con cuarenta y ocho horas de antelación, recogiendo el orden del día de los asuntos a tratar. El Presidente podrá acordar reuniones extraordinarias, sin sujeción al plazo anterior, si existiera, a su juicio, motivo fundado o a petición, al menos, de un tercio de los Vocales. 
+
+El contenido de la convocatoria será comunicado por escrito, directa y personalmente, a cada uno de los interesados. 
+
+3. Para la válida constitución del Consejo de Administración, además del Presidente y del Secretario o de quienes los sustituyan, deberán estar presentes o representados, en primera convocatoria, la mitad, al menos, de los Vocales y, en segunda convocatoria, la tercera parte de los mismos. Entre la primera y la segunda convocatoria deberá transcurrir, al menos, el plazo de una hora. 
+
+Las normas que apruebe el Consejo de Administración, en aplicación de lo previsto en el artículo 16.1.d), establecerán los requisitos conforme a los cuales debe acreditarse la representación. 
+
+## **Artículo 20.** _Adopción de acuerdos._ 
+
+1. Los acuerdos del Consejo de Administración se tomarán por mayoría absoluta de votos de sus miembros presentes o representados. En caso de empate, el Presidente tendrá voto de calidad. 
+
+2. De cada sesión se levantará acta por el Secretario, que se aprobará en la misma o en 
+
+la siguiente sesión, según se determine por el Consejo de Administración. 
+
+El acta deberá ir firmada por el Secretario, con el visto bueno del Presidente, expidiéndose certificación de los acuerdos del Consejo de Administración en igual forma, sin perjuicio de la existencia de un libro de actas en el que consten las actas de las sesiones y los acuerdos adoptados, que custodiará el Secretario del Consejo de Administración. 
+
+## **Artículo 21.** _Dietas por asistencia a las reuniones del Consejo de Administración._ 
+
+Los miembros del Consejo de Administración que asistan a sus sesiones percibirán las compensaciones económicas que autorice el Ministro de Economía y Hacienda, a iniciativa del Ministerio de Fomento, de acuerdo con lo establecido en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio. 
+
+## **Articulo 22.** _Régimen jurídico aplicable al Consejo._ 
+
+El régimen de constitución y funcionamiento del Consejo de Administración, en todo lo no regulado en este Estatuto, se ajustará a las normas contenidas en el Capítulo II del Título II de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de las peculiaridades organizativas contenidas en la Ley de Organización y Funcionamiento de la Administración General del Estado. 
+
+Página 15
+
+<!-- ================= PAGE 16 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+## **Artículo 23.** _El Presidente._ 
+
+1. El Presidente de la entidad y de su Consejo de Administración será nombrado por el Consejo de Ministros, a propuesta del Ministro de Fomento. 
+
+2. Corresponde al Presidente el ejercicio de las siguientes facultades: 
+
+a. Ostentar la representación de la entidad en juicio y fuera de él, en cualquier acto y contrato y frente a toda persona física o jurídica, ya sea pública o privada. 
+
+b. Acordar la convocatoria, presidir y fijar el orden del día de las reuniones del Consejo de Administración, dirigiendo sus deliberaciones y dirimiendo sus empates con su voto de calidad. 
+
+c. Velar por el cumplimiento de este Estatuto y de los acuerdos adoptados por el Consejo de Administración. 
+
+d. Ejecutar los acuerdos del Consejo de Administración. 
+
+e. Ostentar la jefatura superior de todo el personal de la entidad y ejercer la alta inspección de los servicios de la entidad y la vigilancia del desarrollo de su actividad. 
+
+f. Proponer al Consejo de Administración la estructura de la organización y determinar la plantilla en el marco de los criterios y directrices aprobados por aquél. 
+
+g. Acordar el nombramiento y cese del personal directivo de la entidad, debiendo informar de los mismos al Consejo de Administración, así como contratar al personal no directivo, fijando sus retribuciones con arreglo a los criterios definidos por el Consejo de Administración, de conformidad con lo establecido, en su caso, por el correspondiente convenio colectivo. 
+
+h. Someter al Consejo de Administración las tarifas que éste deba aprobar o modificar y las que deban ser propuestas a la Administración para su aprobación ulterior, así como someter al Consejo de Administración la propuesta modificación y actualización de los cánones por utilización de las infraestructuras ferroviarias a acordar por éste. 
+
+i. Presentar al Consejo de Administración, para su aprobación, las propuestas de contratos-programa. 
+
+j. Acordar el ejercicio de las acciones y de los recursos que correspondan a la entidad en defensa de sus intereses ante las Administraciones Públicas y los Tribunales de Justicia de cualquier orden, grado y jurisdicción. 
+
+k. Proponer al Consejo de Administración el programa de actuación plurianual de la entidad y sus presupuestos de explotación y de capital. 
+
+l. Actuar como órgano de contratación en los contratos cuyo importe no exceda la cantidad que requiere, de conformidad con el artículo 12.2.a) del Texto Refundido de la Ley de Contratos de las Administraciones Públicas, la autorización del Consejo de Ministros, sin perjuicio de las facultades que al Consejo de Administración atribuye el artículo 16.1 h) y de su obligación de informar, semestralmente, al referido órgano, de las actuaciones realizadas en el ejercicio de estas competencias. 
+
+m. Presentar al Consejo de Administración, para su aprobación, las cuentas anuales, el informe de gestión y la propuesta de aplicación de resultados. 
+
+n. Ordenar los gastos y pagos de la entidad y efectuar toda clase de cobros, cualquiera que sea su cuantía. 
+
+ñ. Formular las cuentas anuales que deban rendirse al Tribunal de Cuentas, de acuerdo con la normativa presupuestaria. 
+
+o. Rendir las cuentas anuales por conducto de la Intervención General de la Administración del Estado, acompañadas del informe de auditoria, así como del informe de gestión y el previsto en el artículo 129 de la Ley General Presupuestaria. 
+
+p. Decidir en todas aquellas cuestiones no reservadas al Consejo de Administración. 
+
+q. Desempeñar las demás facultades y funciones que le atribuya este Estatuto y cualesquiera otras normas aplicables, las no conferidas expresamente a otros órganos de la entidad, así como las que le delegue, en su caso, el Consejo de Administración. 
+
+3. Podrán ser objeto de delegación en el Vicepresidente, en el personal directivo o en los restantes órganos internos de la entidad, las competencias que correspondan al Presidente, salvo las previstas en las letras del apartado anterior b), c), e), f) -en lo referente a la propuesta de estructura de la organización- y l) -cuando el importe del contrato exceda de 6.000.000 de euros-. 
+
+Página 16
+
+<!-- ================= PAGE 17 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+4. El Presidente ejercerá las potestades administrativas atribuidas por la normativa vigente al ADIF en materia de personal y para la gestión de los servicios básicos de éste u otros servicios cuya prestación se asigne a esta entidad por la normativa que le sea de aplicación. 
+
+5. Los actos del Presidente en el ejercicio de potestades administrativas ponen fin a la 
+
+vía administrativa, con la excepción recogida para los actos del Consejo en el artículo 16.2. 
+
+## **Artículo 24.** _Adopción excepcional de acuerdos._ 
+
+Excepcionalmente, en los casos de urgente necesidad, el Presidente podrá adoptar las decisiones reservadas a la competencia del Consejo de Administración, viniendo obligado a dar cuenta a éste de los acuerdos adoptados, en la primera reunión ordinaria que celebre con posterioridad a la adopción de los mismos, a fin de que sean ratificados. 
+
+## **Artículo 25.** _El Vicepresidente._ 
+
+El Consejo de Administración podrá nombrar de entre sus miembros un Vicepresidente, que ejercerá las funciones que le delegue el Presidente y le suplirá en los casos de ausencia, vacante o enfermedad. Las funciones que el Vicepresidente ejercite por delegación del Presidente, serán indelegables. 
+
+## **Artículo 26.** _El Secretario._ 
+
+1. El Consejo de Administración nombrará y separará libremente, a propuesta del Presidente, un Secretario que asistirá a sus reuniones con voz pero sin voto, salvo que tenga la condición de Vocal. 
+
+2. El Secretario, que habrá de ser licenciado en Derecho, lo será del Consejo de Administración y de las Comisiones Delegadas. 
+
+3. Corresponde al Secretario: 
+
+a) Velar por el cumplimiento de la legalidad vigente. 
+
+b) Efectuar la convocatoria de las sesiones del Consejo por orden del Presidente así como las citaciones a los miembros del mismo. 
+
+c) Preparar el despacho de los asuntos y redactar las actas de las sesiones. 
+
+- d) Expedir certificaciones de los acuerdos aprobados. 
+
+- e) Custodiar los libros de actas. 
+
+- f) Cuantas otras funciones sean inherentes a su condición. 
+
+4. A propuesta del Presidente, el Consejo de Administración podrá nombrar un Vicesecretario, que también habrá de ser licenciado en Derecho, a quien será de aplicación lo establecido en el apartado 1 de este artículo y que suplirá al Secretario en los casos de ausencia, vacante o enfermedad. 
+
+## CAPÍTULO IV 
+
+## **Personal de la entidad** 
+
+## **Artículo 27.** _Régimen del personal._ 
+
+El régimen jurídico del personal laboral de la entidad pública empresarial ADIF y su contratación se ajustará, de conformidad con el artículo 25 de la Ley del Sector Ferroviario, al Derecho laboral, conforme a lo previsto en el artículo 55.1 y 2 de la Ley de Organización y Funcionamiento de la Administración General del Estado. 
+
+A efectos de lo dispuesto en el artículo 55.2 de la Ley de Organización y Funcionamiento de la Administración General del Estado, se considerarán como personal directivo del ADIF los Directores Generales, los Directores Gerentes de las Unidades de negocio y los Directores Corporativos. 
+
+El régimen retributivo del personal directivo y del Presidente de ADIF, así como las indemnizaciones por asistencia de los miembros de su Consejo de Administración, se ajustará a lo previsto en el Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades. 
+
+Página 17
+
+<!-- ================= PAGE 18 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+## **Artículo 28.** _Incompatibilidades._ 
+
+1. El personal de la Entidad estará sujeto al régimen de incompatibilidades establecido en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas. 
+
+2. El personal que tuviera la consideración de alto cargo a efectos de lo dispuesto en la Ley 12/1995, de 11 de mayo, de Incompatibilidades de los miembros del Gobierno de la Nación y de los Altos Cargos de la Administración General del Estado y sus disposiciones de desarrollo, estará sometido al régimen de incompatibilidades y control de intereses establecido en dicha Ley. 
+
+## **Artículo 29.** _Competencias en materia de personal._ 
+
+1. Las competencias en materia de personal se ejercerán por el Consejo de Administración con sujeción a las leyes referidas en el artículo 27, y las demás leyes que le sean de aplicación. 
+
+2. Las relaciones de la Entidad con su personal, dentro del ámbito definido en el número 1 anterior, y en el marco del derecho a la negociación colectiva, se regirán por las condiciones establecidas por los contratos que al efecto se celebren y se someterán al Estatuto de los Trabajadores, a los convenios colectivos y a las demás normas de aplicación. 
+
+## CAPÍTULO V 
+
+## **Régimen patrimonial** 
+
+## **Artículo 30.** _Patrimonio de la entidad._ 
+
+1. El ADIF tendrá, para el cumplimiento de sus fines, un patrimonio propio, distinto del de la Administración General del Estado, integrado por el conjunto de bienes, derechos y obligaciones de los que sea titular. 
+
+La gestión, administración y explotación de los bienes y derechos de titularidad del ADIF se sujetarán a lo dispuesto en la Ley del Sector Ferroviario y en el presente Estatuto y, en lo no dispuesto en estas normas, a lo establecido en la Ley del Patrimonio de las Administraciones Públicas. 
+
+2. Son de titularidad del Administrador de Infraestructuras Ferroviarias (ADIF) todas las infraestructuras ferroviarias que actualmente esté administrando y que integren la Red Ferroviaria de Interés General, salvo aquéllas cuya titularidad se encuentre atribuida a la entidad pública empresarial ADIF-Alta Velocidad. 
+
+3. Asimismo, el ADIF será titular de las infraestructuras que construya o adquiera con sus 
+
+propios recursos y de las que le corresponda en función de los convenios que celebre. 
+
+4. En ningún caso, serán patrimonio del Administrador de Infraestructuras Ferroviarias, con arreglo al artículo 24 de la Ley del Sector Ferroviario, las infraestructuras que, en el futuro, construya con cargo a recursos de un tercero. 
+
+5. El ADIF podrá ejercer, en cualquier momento, respecto de los bienes de dominio público de su titularidad, las facultades de administración, defensa, policía, investigación, deslinde y recuperación posesoria que otorga a la Administración General del Estado, la Ley del Patrimonio de las Administraciones Públicas. Corresponderá, asimismo, al Administrador de Infraestructuras Ferroviarias, respecto de dichos bienes, establecer su régimen de uso y otorgar las concesiones, autorizaciones, arrendamientos y demás títulos que permitan su eventual utilización por terceros. 
+
+## **Artículo 31.** _Desafectación._ 
+
+De acuerdo con lo establecido en el artículo 24 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, los bienes de dominio público de titularidad de ADIF, que resulten innecesarios para la prestación de los servicios de interés general y esenciales para la comunidad que realiza, podrán ser desafectados por aquél. La desafectación se llevará a cabo previa declaración de innecesariedad realizada por el Consejo de Administración y determinará la incorporación a su patrimonio de los bienes desafectados, que podrán ser objeto de enajenación o permuta. 
+
+Página 18
+
+<!-- ================= PAGE 19 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+## **Artículo 32.** _Inventario._ 
+
+La entidad formará y mantendrá actualizado el inventario de sus bienes y derechos. El inventario se actualizará anualmente con referencia al 31 de diciembre y se someterá a la aprobación del Consejo de Administración en el primer trimestre del ejercicio siguiente. 
+
+## CAPÍTULO VI 
+
+## **Régimen económico financiero** 
+
+## **_Seccion 1.ª Recursos de la entidad_** 
+
+## **Artículo 33.** _Recursos del Administrador de Infraestructuras Ferroviarias._ 
+
+Los recursos económicos del ADIF podrán ser cualesquiera de los enumerados en el apartado 1 del artículo 65 de la Ley de Organización y Funcionamiento de la Administración General del Estado. Entre los recursos económicos del ADIF se incluyen, de conformidad con el artículo 23 de la Ley del Sector Ferroviario: 
+
+1. Las aportaciones patrimoniales del Estado, que constituirán los recursos propios del ente. 
+
+2. Los que obtenga por la gestión y explotación de su patrimonio o de aquél cuya gestión se le encomiende y por la prestación de servicios a terceros. 
+
+3. Los ingresos, comerciales o de otra naturaleza, que obtenga por la ejecución de los convenios o contratos-programa celebrados con el Estado para la construcción y administración de las infraestructuras ferroviarias de titularidad del Estado. 
+
+4. Las tasas cuyo importe deba percibir por afectación, con arreglo a la Ley del Sector Ferroviario. 
+
+5. Los fondos comunitarios que le puedan ser asignados. 
+
+6. Los cánones que perciba por la utilización de las infraestructuras ferroviarias. 
+
+7. Las subvenciones que, en su caso, puedan incluirse en los Presupuestos Generales del Estado. 
+
+8. Las transferencias corrientes y de capital de la Administración General del Estado y de otras Administraciones. 
+
+9. Las aportaciones del Estado, a título de préstamo, que, en su caso, puedan incluirse en los Presupuestos Generales del Estado de cada ejercicio. 
+
+10. Los recursos financieros procedentes de operaciones de endeudamiento, cuyo límite anual será fijado en las Leyes de Presupuestos Generales del Estado de cada ejercicio. 
+
+11. Las donaciones. 
+
+12. Los que obtenga por la ejecución de los convenios que celebre con las Comunidades 
+
+Autónomas, Entidades Locales o con entidades privadas. 
+
+13. Cualesquiera otros ingresos financieros o no financieros y otros que obtenga de acuerdo con lo previsto en la Ley del Sector Ferroviario o en las normas reglamentarias que la desarrollen. 
+
+## **_Sección 2.ª Financiación, planificación, contabilidad y control_** 
+
+## **Artículo 34.** _Afectación del importe de las tasas y los cánones ferroviarios._ 
+
+1. El importe de la recaudación de las tasas por licencias y certificados de seguridad, por seguridad en el transporte ferroviario de viajeros, por homologación de centros de formación del personal ferroviario y de mantenimiento del material rodante, por el otorgamiento de títulos a dicho personal y por certificación del referido material, se ingresará en el patrimonio del Administrador de Infraestructuras Ferroviarias, salvo que por Ley se establezca una afectación distinta respecto del importe recaudado por la tasa relativa al certificado de seguridad, conforme a lo dispuesto en el Capítulo I del Título V de la Ley del Sector Ferroviario. 
+
+2. Asimismo, el ADIF percibirá de las empresas que presten servicios de transporte ferroviario, cánones por la utilización de las infraestructuras ferroviarias, de acuerdo con lo establecido en el referido capítulo de la Ley del Sector Ferroviario. 
+
+Página 19
+
+<!-- ================= PAGE 20 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+3. ADIF deberá facilitar a la Comisión Nacional de los Mercados y la Competencia toda la información que ésta le requiera en materia de gestión, liquidación y cobro de cánones devengados por la utilización de las infraestructuras ferroviarias de su titularidad. 
+
+4. Será competencia del ADIF la gestión, liquidación y recaudación de los cánones, en 
+
+los casos establecidos por la Ley del Sector Ferroviario. 
+
+5. Sin perjuicio del régimen jurídico general aplicable a la impugnación de los actos del 
+
+ADIF como entidad de derecho público: 
+
+– Los relativos a la gestión, liquidación y recaudación de las tasas previstas en la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario serán susceptibles de reclamación en vía económico-administrativa. 
+
+– Como excepción a lo dispuesto en el punto anterior, los relativos a la cuantía, estructura o aplicación de los cánones por utilización de las infraestructuras ferroviarias serán susceptibles de reclamación ante la Comisión Nacional de los Mercados y la Competencia, en los términos fijados en la Ley 3/2013, de 4 de junio, por la que se crea dicha Comisión. 
+
+6. En el supuesto de que el Administrador de Infraestructuras Ferroviarias, en el ejercicio de las funciones que tiene encomendadas, realice la construcción o administración de infraestructuras ferroviarias mediante la celebración del oportuno contrato de concesión de obra pública, podrá retribuir al concesionario con las cantidades recaudadas por el organismo como consecuencia de la utilización de las infraestructuras por los usuarios, los rendimientos procedentes de la explotación de las zonas comerciales vinculadas a ellas o la realización de actividades complementarias, en los términos previstos en el artículo 22.5 de la Ley del Sector Ferroviario. 
+
+## **Artículo 35.** _Operaciones financieras._ 
+
+1. El ADIF podrá realizar todo tipo de operaciones financieras y, en particular, concertar operaciones activas o pasivas de crédito y préstamo, cualquiera que sea la forma en que se instrumente, incluso mediante la emisión de obligaciones, bonos, pagarés y cualquier otro pasivo financiero, así como titulizar los derechos de crédito de que sea titular. Lo anterior se entiende sin perjuicio de lo establecido en la Ley General Presupuestaria y de acuerdo con los límites establecidos en las Leyes de Presupuestos anuales. 
+
+2. Las operaciones activas y pasivas, de crédito a corto plazo y de tesorería, de las empresas en las que el ADIF participe directa o indirectamente se ajustarán al límite fijado en su presupuesto. 
+
+## **Artículo 36.** _El programa de actuación plurianual._ 
+
+La entidad elaborará y tramitará anualmente un programa de actuación plurianual, de acuerdo con lo establecido en la Ley General Presupuestaria. Tal programa, acompañado de la documentación exigida en el artículo 65 de la citada Ley, será remitido al Ministerio de Economía y Hacienda, a través del Ministerio de Fomento, para su aprobación por el Gobierno, conforme a la Ley General Presupuestaria. 
+
+## **Artículo 37.** _Contabilidad._ 
+
+1. El ADIF estará sometido al régimen de contabilidad previsto para las entidades públicas empresariales en la Ley General Presupuestaria. 
+
+2. Asimismo, aplicará un régimen de contabilidad separada de sus actividades según sea de construcción de infraestructuras ferroviarias, administración de éstas o prestación de servicios adicionales, complementarios o auxiliares. Dentro de la contabilidad relativa a la administración de las infraestructuras ferroviarias, separará la contabilidad de las infraestructuras de su titularidad de las de titularidad estatal cuya administración le haya sido encomendada. 
+
+Página 20
+
+<!-- ================= PAGE 21 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+## **Artículo 38.** _Control de eficacia._ 
+
+1. El control técnico y de eficacia sobre la actividad del ADIF se realizará con arreglo a lo dispuesto en el artículo 27 de la Ley del Sector Ferroviario y en el artículo 59 de la Ley de Organización y Funcionamiento de la Administración General del Estado. 
+
+2. Sin perjuicio de lo dispuesto en el apartado anterior corresponde al Ministerio de Fomento, a través de la Secretaría General de Infraestructuras, el control técnico y de eficacia de la gestión que ha de llevar a cabo el Administrador de Infraestructuras Ferroviarias, así como el ejercicio de las facultades que la Ley le atribuye en materia de control de la fijación y gestión de los cánones ferroviarios, a cuyo efecto podrá realizar las inspecciones y auditorias de gestión que resulten necesarias. 
+
+El Ministerio de Fomento podrá requerir al Administrador de Infraestructuras Ferroviarias, en cualquier momento, la información o documentación que estime conveniente en el ejercicio de su facultad de control. 
+
+## **Artículo 39.** _Control económico y financiero._ 
+
+Sin perjuicio de las competencias de fiscalización atribuidas al Tribunal de Cuentas por su ley orgánica y por las demás normas que regulan sus competencias, la entidad pública empresarial estará sometida al control financiero permanente, previsto en la Ley General Presupuestaria, que se realizará por la Intervención General de la Administración del Estado, a través de la Intervención Delegada en el organismo. 
+
+## **_Sección 3.ª Régimen presupuestario_** 
+
+## **Artículo 40.** _Elaboración del presupuesto._ 
+
+La entidad elaborará, anualmente, sus Presupuestos de Explotación y Capital, junto con los Programas de Actuación Plurianual, con la estructura que determine el Ministerio de Hacienda y Administraciones Públicas, que serán tramitados en la forma establecida, para las entidades públicas empresariales, en la Ley 47/2003, de 26 de noviembre, General Presupuestaria. 
+
+## **Articulo 41.** _Variación del presupuesto._ 
+
+1. El régimen de variaciones presupuestarias será el establecido, con carácter general, para las entidades públicas empresariales en la Ley General Presupuestaria. 
+
+2. No obstante lo anterior, serán aprobadas por el Consejo de Administración o por el órgano en quien éste delegue, las modificaciones internas de los presupuestos que no incrementen la cuantía del mismo y sean consecuencia de las necesidades surgidas durante el ejercicio. 
+
+## **Artículo 42.** _Cuentas anuales._ 
+
+Las cuentas anuales en las que deberá incluirse la propuesta de aplicación de resultados junto con el informe de gestión y el informe a que se refiere el artículo 129.3 de la Ley General Presupuestaria, relativo al cumplimiento de las obligaciones de carácter económicofinanciero que asume como consecuencia de su pertenencia al sector público, serán sometidos al Consejo de Administración por su Presidente, para su aprobación antes de finalizar el primer trimestre del año siguiente. Esta aprobación deberá producirse antes de finalizar el primer semestre de dicho año. 
+
+## **Artículo 43.** _Aplicación de resultados._ 
+
+El excedente que arroje, anualmente, la cuenta de resultados del ADIF se imputará, por acuerdo del Consejo de Administración, a la financiación de inversiones y a la reducción del endeudamiento, según lo establecido en el presupuesto de capital. El remanente que, en su caso, resultare se ingresará en el Tesoro Público, previa detracción de un 20 por 100 de su importe anual, que estará destinado a crear un fondo para cubrir las futuras necesidades de organización y operativas de la citada entidad pública empresarial. Dicho fondo se dotará hasta que alcance un máximo de un 10 por 100 de los gastos de la cuenta de explotación del 
+
+Página 21
+
+<!-- ================= PAGE 22 OF 22 ================= -->
+
+BOLETÍN OFICIAL DEL ESTADO LEGISLACIÓN CONSOLIDADA 
+
+último ejercicio cerrado y en su aplicación se respetarán los preceptos legales que correspondan. 
+
+## **Artículo 44.** _Régimen tributario._ 
+
+El ADIF quedará sometido al régimen tributario propio de las entidades públicas empresariales, con las particularidades previstas en la Ley del Sector Ferroviario. 
+
+De acuerdo con lo establecido en el párrafo anterior, el régimen aplicable al ADIF respecto del impuesto de transmisiones patrimoniales y actos jurídicos documentados, en todas sus modalidades, será el previsto en el artículo 45.I.A).a) del Real Decreto-legislativo 1/1993, de 24 de septiembre, por el que se aprueba el texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados. 
+
+### **Información relacionada** 
+
+- Véase la Sentencia 83/2013, de 11 de abril, <u>Ref. BOE-A-2013-4903., dictada en el conflicto de</u> competencias con la Comunidad Autónoma de Andalucía. 
+
+Este documento es de carácter informativo y no tiene valor jurídico. 
+
+Página 22

@@ -1,0 +1,9 @@
+# PDF to Markdown Agent Dependencies
+pymupdf>=1.24.0
+pymupdf4llm>=0.0.17
+pdfplumber>=0.11.0
+pypdf>=4.0.0
+pytesseract>=0.3.10
+tqdm>=4.66.0
+pyyaml>=6.0.0
+qrcode>=7.4.2
